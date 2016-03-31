@@ -33,11 +33,13 @@ public class InsertInterval {
 
         return list;
     }
+
+    class Interval {
+        int start;
+        int end;
+        Interval() { start = 0; end = 0; }
+        Interval(int s, int e) { start = s; end = e; }
+    }
 }
 
-class Interval1 {
-    int start;
-    int end;
-    Interval1() { start = 0; end = 0; }
-    Interval1(int s, int e) { start = s; end = e; }
-     }
+
