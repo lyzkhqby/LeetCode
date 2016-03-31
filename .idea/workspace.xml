@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ContainerWithMostWater.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FindTheDuplicateNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MergeIntervals.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -46,12 +45,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindTheDuplicateNumber.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FindTheDuplicateNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FindTheDuplicateNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47655398">
+            <state vertical-scroll-proportion="0.0">
               <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MergeIntervals.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MergeIntervals.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.02181025">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,6 +92,7 @@
         <option value="$PROJECT_DIR$/src/MedianOfTwoSortedArrays.java" />
         <option value="$PROJECT_DIR$/src/ContainerWithMostWater.java" />
         <option value="$PROJECT_DIR$/src/FindTheDuplicateNumber.java" />
+        <option value="$PROJECT_DIR$/src/MergeIntervals.java" />
       </list>
     </option>
   </component>
@@ -114,7 +127,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -151,6 +163,7 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -498,6 +511,13 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
+    <task id="LOCAL-00001" summary="new&#10;">
+      <created>1459305755440</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1459305755440</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -539,6 +559,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="new&#10;" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <option name="time" value="2" />
@@ -550,6 +574,30 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/MedianOfTwoSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContainerWithMostWater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindTheDuplicateNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/MedianOfTwoSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -584,9 +632,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FindTheDuplicateNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47655398">
+        <state vertical-scroll-proportion="0.0">
           <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.02181025">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
