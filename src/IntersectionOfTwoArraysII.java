@@ -9,7 +9,6 @@ public class IntersectionOfTwoArraysII {
     public int[] intersect(int[] nums1, int[] nums2) {
         Arrays.sort(nums1);
         Arrays.sort(nums2);
-
         List<Integer> res = new ArrayList<>();
         int len1 = nums1.length;
         int len2 = nums2.length;
@@ -27,7 +26,6 @@ public class IntersectionOfTwoArraysII {
                 j++;
             }
         }
-
         int len = res.size();
         int[] result = new int[len];
         for (int k = 0; k < len; k++) {
