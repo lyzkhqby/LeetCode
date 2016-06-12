@@ -16,7 +16,10 @@ public class TrappingRainWater {
                 right--;
             }
         }
+
         return sum;
 
     }
+
+
 }
