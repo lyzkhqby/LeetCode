@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Comparator;
 
 /**
  * Created by rotoosoft-d04 on 2016/6/16.
@@ -11,7 +12,7 @@ public class LargestNumber {
             numStrs[i] = String.valueOf(nums[i]);
         }
 
-        Arrays.sort(numStrs, (str1, str2) -> (str2 + str1).compareTo(str1 + str2));
+        Arrays.sort(numStrs, new NumbersComparator());
 
         if(numStrs[0].equals("0")) return "0";
         StringBuilder sb = new StringBuilder();
@@ -19,5 +20,12 @@ public class LargestNumber {
             sb.append(numStr);
         }
         return sb.toString();
+    }
+
+    class NumbersComparator implements Comparator<String> {
+        @Override
+        public int compare(String s1, String s2) {
+            return (s2 + s1).compareTo(s1 + s2);
+        }
     }
 }
