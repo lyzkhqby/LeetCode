@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RestoreIPAddresses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/IntegerToRoman.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -45,14 +45,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RestoreIPAddresses.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RestoreIPAddresses.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RestoreIPAddresses.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5311778">
+            <state vertical-scroll-proportion="0.0">
               <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntegerToRoman.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/IntegerToRoman.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.89376444">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,7 +87,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SymmetricTree.java" />
         <option value="$PROJECT_DIR$/src/LowestCommonAncestor.java" />
         <option value="$PROJECT_DIR$/src/KthSmallestElementInABST.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreeRightSideView.java" />
@@ -128,6 +137,7 @@
         <option value="$PROJECT_DIR$/src/GenerateParentheses.java" />
         <option value="$PROJECT_DIR$/src/StringToInteger.java" />
         <option value="$PROJECT_DIR$/src/RestoreIPAddresses.java" />
+        <option value="$PROJECT_DIR$/src/IntegerToRoman.java" />
       </list>
     </option>
   </component>
@@ -854,7 +864,13 @@
       <option name="project" value="LOCAL" />
       <updated>1467567966782</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="new&#10;">
+      <created>1467568028347</created>
+      <option name="number" value="00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1467568028347</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -919,13 +935,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PopulatingNextRightPointersInEachNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="52" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.212828">
@@ -1276,11 +1285,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RestoreIPAddresses.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5311778">
+        <state vertical-scroll-proportion="0.0">
           <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntegerToRoman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.89376444">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
