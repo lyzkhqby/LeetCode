@@ -2,6 +2,11 @@
  * Created by rotoosoft-d04 on 2016/7/28.
  */
 public class WildcardMatching {
+//    p[j-1] == s[i-1] || p[j-1] == '?'：dp[i][j] = dp[i-1][j-1]
+//    p[j-1] == '*'：
+//            1. 匹配0个字符：dp[i][j] = dp[i][j-1]
+//            2. 匹配1个字符：dp[i][j] = dp[i-1][j-1]
+//            3. 匹配多个字符：dp[i][j] = dp[i-1][j]
     public boolean isMatch(String s, String p) {
         int lenS = s.length(), lenP = p.length();
 
