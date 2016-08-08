@@ -19,7 +19,8 @@ public class GuessNumberHigherOrLower {
         return mid;
     }
 
+    //本题内置api
     private int guess(int num){
-        return 0;//内置api
+        return 0;
     }
 }
