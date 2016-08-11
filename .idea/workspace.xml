@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/KthSmallestElementInASortedMatrix.java" afterPath="$PROJECT_DIR$/src/KthSmallestElementInASortedMatrix.java" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,8 +57,8 @@
       <file leaf-file-name="KthSmallestElementInASortedMatrix.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/KthSmallestElementInASortedMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14862682">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.37156704">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -625,12 +624,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00030" summary="new&#10;">
-      <created>1465284984903</created>
-      <option name="number" value="00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1465284984903</updated>
-    </task>
     <task id="LOCAL-00031" summary="new&#10;">
       <created>1465284991201</created>
       <option name="number" value="00031" />
@@ -919,7 +912,13 @@
       <option name="project" value="LOCAL" />
       <updated>1470898030838</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="new&#10;">
+      <created>1470898650082</created>
+      <option name="number" value="00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1470898650082</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1399,8 +1398,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KthSmallestElementInASortedMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14862682">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.37156704">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
