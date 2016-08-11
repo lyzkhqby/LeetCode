@@ -2,6 +2,7 @@
  * Created by rotoosoft-d04 on 2016/8/11.
  */
 public class KthSmallestElementInASortedMatrix {
+
     public int kthSmallest(int[][] matrix, int k) {
         int len = matrix.length;
 
