@@ -2,7 +2,7 @@
  * Created by zk on 2016/8/13.
  */
 public class ValidPerfectSquare {
-    public boolean isPerfectSquare(int num) {
+    public static boolean isPerfectSquare(int num) {
         int low = 1;
         int high = num;
         while (low <= high) {
@@ -17,6 +17,10 @@ public class ValidPerfectSquare {
         }
 
         return false;
+    }
+
+    public static void main(String[] args) {
+        System.out.print(isPerfectSquare(5));
     }
 
 }
