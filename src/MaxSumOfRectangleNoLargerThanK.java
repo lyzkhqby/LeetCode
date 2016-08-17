@@ -1,10 +1,11 @@
 import java.util.TreeSet;
 
 /**
- * Created by rotoosoft-d04 on 2016/8/15.
+ * Created by zk on 2016/8/17.
  */
 public class MaxSumOfRectangleNoLargerThanK {
-    public static int maxSumSubmatrix(int[][] matrix, int k) {
+
+    public int maxSumSubmatrix(int[][] matrix, int k) {
         int m = matrix.length, n = 0;
         if (m > 0) n = matrix[0].length;
         if (m * n == 0) return 0;
@@ -12,27 +13,25 @@ public class MaxSumOfRectangleNoLargerThanK {
         int M = Math.max(m, n);
         int N = Math.min(m, n);
 
-        int ans = Integer.MIN_VALUE;
-        for (int x = 0; x < N; x++) {
+        int res = Integer.MIN_VALUE;
+        for (int i = 0; i < N; i++) {
             int sums[] = new int[M];
-            for (int y = x; y < N; y++) {
+            for (int j = i; j < N; j++) {
                 TreeSet<Integer> set = new TreeSet<Integer>();
                 int num = 0;
-                for (int z = 0; z < M; z++) {
-                    sums[z] += m > n ? matrix[z][y] : matrix[y][z];
-                    num += sums[z];
-                    if (num <= k) ans = Math.max(ans, num);
-                    Integer i = set.ceiling(num - k);
-                    if (i != null) ans = Math.max(ans, num - i);
+                for (int p = 0; p < M; p++) {
+                    sums[p] += m > n ? matrix[p][j] : matrix[j][p];
+                    num += sums[p];
+                    if (num <= k) res = Math.max(res, num);
+                    Integer x = set.ceiling(num - k);
+                    if (x != null) res = Math.max(res, num - x);
                     set.add(num);
                 }
             }
         }
-        return ans;
-    }
 
-    public static void main(String[] args) {
-        int[][] nums = {{5,-4,-3,4},{-3,-4,4,5},{5,1,5,-4}};
-        maxSumSubmatrix(nums, 10);
+        return res;
+
+
     }
 }
