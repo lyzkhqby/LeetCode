@@ -2,17 +2,17 @@
  * Created by zk on 2016/7/26.
  */
 public class IntegerToEnglishWords {
-    private final String[] belowTen = {"", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"};
-    private final String[] belowTwenty = {"Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
-    private final String[] belowHundred = {"", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
+    private final static String[] belowTen = {"", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"};
+    private final static String[] belowTwenty = {"Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
+    private final static String[] belowHundred = {"", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
 
 
-    public String numberToWords(int num) {
+    public static String numberToWords(int num) {
         if(num == 0) return "Zero";
         return helper(num);
     }
 
-    private String helper(int num) {
+    private static String helper(int num) {
         String result = new String();
         if (num < 10) result = belowTen[num];
         else if (num < 20) result = belowTwenty[num - 10];
@@ -22,5 +22,9 @@ public class IntegerToEnglishWords {
         else if (num < 1000000000) result = helper(num / 1000000) + " Million " + helper(num % 1000000);
         else result = helper(num / 1000000000) + " Billion " + helper(num % 1000000000);
         return result.trim();
+    }
+
+    public static void main(String[] args) {
+        System.out.print(numberToWords(239542326));
     }
 }
