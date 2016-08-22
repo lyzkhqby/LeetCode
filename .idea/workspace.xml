@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PartitionList.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -605,12 +604,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00036" summary="new&#10;">
-      <created>1465888647482</created>
-      <option name="number" value="00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1465888647482</updated>
-    </task>
     <task id="LOCAL-00037" summary="new&#10;">
       <created>1465963170695</created>
       <option name="number" value="00037" />
@@ -899,7 +892,13 @@
       <option name="project" value="LOCAL" />
       <updated>1471837565469</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="new&#10;">
+      <created>1471847282243</created>
+      <option name="number" value="00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1471847282243</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="ToolWindowManager">
