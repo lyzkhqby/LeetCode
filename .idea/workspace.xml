@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RepeatedDNASequences.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SudokuSolver.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -87,14 +87,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RepeatedDNASequences.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RepeatedDNASequences.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RepeatedDNASequences.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4116331">
+            <state vertical-scroll-proportion="0.0">
               <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SudokuSolver.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SudokuSolver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.2091722">
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -119,7 +129,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ValidNumber.java" />
         <option value="$PROJECT_DIR$/src/ScrambleString.java" />
         <option value="$PROJECT_DIR$/src/MinimumWindowSubstring.java" />
         <option value="$PROJECT_DIR$/src/LongestValidParentheses.java" />
@@ -170,6 +179,7 @@
         <option value="$PROJECT_DIR$/src/WordPattern.java" />
         <option value="$PROJECT_DIR$/src/BullsAndCows.java" />
         <option value="$PROJECT_DIR$/src/RepeatedDNASequences.java" />
+        <option value="$PROJECT_DIR$/src/SudokuSolver.java" />
       </list>
     </option>
   </component>
@@ -204,6 +214,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -238,8 +250,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -661,12 +671,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00060" summary="new&#10;">
-      <created>1469085917565</created>
-      <option name="number" value="00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1469085917565</updated>
-    </task>
     <task id="LOCAL-00061" summary="new&#10;">
       <created>1469604050994</created>
       <option name="number" value="00061" />
@@ -955,7 +959,13 @@
       <option name="project" value="LOCAL" />
       <updated>1474166076785</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="new&#10;">
+      <created>1474252569023</created>
+      <option name="number" value="00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1474252569024</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1097,13 +1107,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ValidNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ScrambleString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1528,11 +1531,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/RepeatedDNASequences.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4116331">
+        <state vertical-scroll-proportion="0.0">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SudokuSolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2091722">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
