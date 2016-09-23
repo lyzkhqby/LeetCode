@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/InsertDeleteGetRandomDuplicatesAllowed.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CopyListWithRandomPointer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -35,15 +35,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsertDeleteGetRandomDuplicatesAllowed.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InsertDeleteGetRandomDuplicatesAllowed.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/InsertDeleteGetRandomDuplicatesAllowed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51173186">
+            <state vertical-scroll-proportion="0.0">
               <caret line="49" column="52" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1611#1612#0" expanded="true" />
-                <element signature="e#1685#1686#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CopyListWithRandomPointer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CopyListWithRandomPointer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.51173186">
+              <caret line="20" column="30" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,7 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LongestValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/WordLadderII.java" />
         <option value="$PROJECT_DIR$/src/TextJustification.java" />
         <option value="$PROJECT_DIR$/src/GuessNumberHigherOrLower.java" />
@@ -120,6 +129,7 @@
         <option value="$PROJECT_DIR$/src/SudokuSolver.java" />
         <option value="$PROJECT_DIR$/src/FractionToRecurringDecimal.java" />
         <option value="$PROJECT_DIR$/src/InsertDeleteGetRandomDuplicatesAllowed.java" />
+        <option value="$PROJECT_DIR$/src/CopyListWithRandomPointer.java" />
       </list>
     </option>
   </component>
@@ -155,7 +165,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -190,6 +199,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -611,12 +621,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00063" summary="new&#10;">
-      <created>1469604207010</created>
-      <option name="number" value="00063" />
-      <option name="project" value="LOCAL" />
-      <updated>1469604207010</updated>
-    </task>
     <task id="LOCAL-00064" summary="new&#10;">
       <created>1469692361954</created>
       <option name="number" value="00064" />
@@ -905,7 +909,13 @@
       <option name="project" value="LOCAL" />
       <updated>1474449661117</updated>
     </task>
-    <option name="localTasksCounter" value="112" />
+    <task id="LOCAL-00112" summary="new&#10;">
+      <created>1474521981985</created>
+      <option name="number" value="00112" />
+      <option name="project" value="LOCAL" />
+      <updated>1474521981986</updated>
+    </task>
+    <option name="localTasksCounter" value="113" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1048,13 +1058,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LongestValidParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/WordLadderII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1478,12 +1481,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/InsertDeleteGetRandomDuplicatesAllowed.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51173186">
+        <state vertical-scroll-proportion="0.0">
           <caret line="49" column="52" selection-start-line="49" selection-start-column="52" selection-end-line="49" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1611#1612#0" expanded="true" />
-            <element signature="e#1685#1686#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CopyListWithRandomPointer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51173186">
+          <caret line="20" column="30" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
