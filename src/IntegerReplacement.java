@@ -8,7 +8,7 @@ public class IntegerReplacement {
         while (n != 1) {
             if (n % 2 == 0) n /= 2;
             else {
-                if ((n + 1) % 4 == 0 && n != 3) n += 1; //可以一下练除两次2
+                if ((n + 1) % 4 == 0 && n != 3) n += 1; //可以一下连除两次2
                 else n -= 1;
             }
             count++;
