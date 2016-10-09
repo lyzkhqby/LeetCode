@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NumberOfDigitOne.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/NumberOfDigitOne.java" afterPath="$PROJECT_DIR$/src/NumberOfDigitOne.java" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,8 +38,8 @@
       <file leaf-file-name="NumberOfDigitOne.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/NumberOfDigitOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3344519">
-              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.4116331">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -607,12 +607,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00077" summary="new&#10;">
-      <created>1470827249325</created>
-      <option name="number" value="00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1470827249326</updated>
-    </task>
     <task id="LOCAL-00078" summary="new&#10;">
       <created>1470898030837</created>
       <option name="number" value="00078" />
@@ -901,7 +895,13 @@
       <option name="project" value="LOCAL" />
       <updated>1475992408005</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="new&#10;">
+      <created>1475994453544</created>
+      <option name="number" value="00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1475994453545</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1424,8 +1424,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NumberOfDigitOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3344519">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.4116331">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
           <folding />
         </state>
       </provider>

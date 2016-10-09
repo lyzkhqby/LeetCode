@@ -15,9 +15,7 @@ public class NumberOfDigitOne {
     public int countDigitOne(int n) {
         int factor = 1, count = 0, k = n;
         while (n > 0) {
-            int m = n / 10,
-                    r = n % 10,
-                    amount = 0;
+            int m = n / 10, r = n % 10, amount = 0;
             if (r == 0) amount = 0;
             else if (r > 1) amount = factor;
             else amount = k % factor + 1;
