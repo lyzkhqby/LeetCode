@@ -8,10 +8,11 @@ public class ReverseLinkedListII {
         ListNode Head = head;
         ListNode pre = new ListNode(0);
         pre.next = head;
-        while (m > 1) {
+        int m1 = m;
+        while (m1 > 1) {
             pre = head;
             head = head.next;
-            m--;
+            m1--;
         }
         ListNode newHead = pre;
         while (step >= 0) {
@@ -39,10 +40,12 @@ public class ReverseLinkedListII {
     }
 
     public static void main(String[] args) {
-        ListNode n1 = new ListNode(3);
-        ListNode n2 = new ListNode(5);
+        ListNode n1 = new ListNode(1);
+        ListNode n2 = new ListNode(2);
+        ListNode n3 = new ListNode(3);
         n1.next = n2;
-        ListNode res = reverseBetween(n1, 1, 2);
+        n2.next = n3;
+        ListNode res = reverseBetween(n1, 2, 3);
         System.out.print(res.val);
     }
 }
