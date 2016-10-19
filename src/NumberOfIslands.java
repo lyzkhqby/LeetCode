@@ -8,7 +8,7 @@ import java.util.Queue;
  */
 public class NumberOfIslands {
     public static int numIslands(char[][] grid) {
-        if (grid == null || grid.length == 0) return 0;
+        if (grid == null || grid.length == 0 || grid[0].length == 0) return 0;
         int res = 0;
         int lenRow = grid.length, lenCol = grid[0].length;
         for (int i = 0; i < lenRow; i++) {
@@ -44,12 +44,7 @@ public class NumberOfIslands {
             int[] right = new int[]{temp[0],temp[1] + 1};
             if (temp[1] + 1 < grid[0].length && grid[temp[0]][temp[1] + 1] == '1'
                     && !contains(queue,right)) queue.offer(right);
-            //printGrid(grid, queue);
-//            try {
-//                Thread.sleep(2000);
-//            } catch (InterruptedException e) {
-//                e.printStackTrace();
-//            }
+
         }
     }
 
