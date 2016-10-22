@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CourseScheduleII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/SurroundedRegions.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -38,12 +38,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CourseScheduleII.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CourseScheduleII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CourseScheduleII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21845318">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SurroundedRegions.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SurroundedRegions.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.53188604">
+              <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -68,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ValidSudoku.java" />
         <option value="$PROJECT_DIR$/src/IsomorphicStrings.java" />
         <option value="$PROJECT_DIR$/src/FindTheDifference.java" />
         <option value="$PROJECT_DIR$/src/CountPrimes.java" />
@@ -119,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/CourseSchedule.java" />
         <option value="$PROJECT_DIR$/src/CloneGraph.java" />
         <option value="$PROJECT_DIR$/src/CourseScheduleII.java" />
+        <option value="$PROJECT_DIR$/src/SurroundedRegions.java" />
       </list>
     </option>
   </component>
@@ -565,12 +577,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00094" summary="new&#10;">
-      <created>1473010033593</created>
-      <option name="number" value="00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1473010033598</updated>
-    </task>
     <task id="LOCAL-00095" summary="new&#10;">
       <created>1473051123174</created>
       <option name="number" value="00095" />
@@ -859,7 +865,13 @@
       <option name="project" value="LOCAL" />
       <updated>1477055432898</updated>
     </task>
-    <option name="localTasksCounter" value="143" />
+    <task id="LOCAL-00143" summary="new&#10;">
+      <created>1477057979013</created>
+      <option name="number" value="00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1477057979013</updated>
+    </task>
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1027,13 +1039,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/VerifyPreorderSerializationOfABinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.64317673">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ValidSudoku.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.71777475">
@@ -1389,9 +1394,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CourseScheduleII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21845318">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SurroundedRegions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53188604">
+          <caret line="48" column="30" selection-start-line="48" selection-start-column="30" selection-end-line="48" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
