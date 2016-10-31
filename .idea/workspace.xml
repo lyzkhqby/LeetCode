@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PalindromePartitioning.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PalindromePartitioningII.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -81,14 +81,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PalindromePartitioning.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PalindromePartitioning.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PalindromePartitioning.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.31071913">
+            <state vertical-scroll-proportion="0.0">
               <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromePartitioningII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PalindromePartitioningII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.2795116">
+              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -113,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SuperPow.java" />
         <option value="$PROJECT_DIR$/src/PerfectSquares.java" />
         <option value="$PROJECT_DIR$/src/LargestDivisibleSubset.java" />
         <option value="$PROJECT_DIR$/src/SelfCrossing.java" />
@@ -164,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/FindAllAnagramsInAString.java" />
         <option value="$PROJECT_DIR$/src/Combinations.java" />
         <option value="$PROJECT_DIR$/src/PalindromePartitioning.java" />
+        <option value="$PROJECT_DIR$/src/PalindromePartitioningII.java" />
       </list>
     </option>
   </component>
@@ -610,12 +620,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00117" summary="new&#10;">
-      <created>1475521531012</created>
-      <option name="number" value="00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1475521531013</updated>
-    </task>
     <task id="LOCAL-00118" summary="new&#10;">
       <created>1475524063927</created>
       <option name="number" value="00118" />
@@ -904,7 +908,13 @@
       <option name="project" value="LOCAL" />
       <updated>1477924293519</updated>
     </task>
-    <option name="localTasksCounter" value="166" />
+    <task id="LOCAL-00166" summary="new&#10;">
+      <created>1477930369504</created>
+      <option name="number" value="00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1477930369504</updated>
+    </task>
+    <option name="localTasksCounter" value="167" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1087,13 +1097,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BulbSwitcher.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1459,11 +1462,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PalindromePartitioning.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.31071913">
+        <state vertical-scroll-proportion="0.0">
           <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PalindromePartitioningII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.2795116">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
