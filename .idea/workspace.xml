@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/FindAllAnagramsInAString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Combinations.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -57,11 +57,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindAllAnagramsInAString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FindAllAnagramsInAString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FindAllAnagramsInAString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15603799">
+            <state vertical-scroll-proportion="0.0">
               <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Combinations.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Combinations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.74898237">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/BulbSwitcher.java" />
         <option value="$PROJECT_DIR$/src/SuperPow.java" />
         <option value="$PROJECT_DIR$/src/PerfectSquares.java" />
@@ -140,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/HouseRobber.java" />
         <option value="$PROJECT_DIR$/src/PathSumIII.java" />
         <option value="$PROJECT_DIR$/src/FindAllAnagramsInAString.java" />
+        <option value="$PROJECT_DIR$/src/Combinations.java" />
       </list>
     </option>
   </component>
@@ -586,12 +598,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00115" summary="new&#10;">
-      <created>1475379453688</created>
-      <option name="number" value="00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1475379453689</updated>
-    </task>
     <task id="LOCAL-00116" summary="new&#10;">
       <created>1475393426104</created>
       <option name="number" value="00116" />
@@ -880,7 +886,13 @@
       <option name="project" value="LOCAL" />
       <updated>1477917482786</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="new&#10;">
+      <created>1477922936258</created>
+      <option name="number" value="00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1477922936258</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1063,13 +1075,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/WaterAndJugProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/IntegerBreak.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1429,8 +1434,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FindAllAnagramsInAString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15603799">
+        <state vertical-scroll-proportion="0.0">
           <caret line="8" column="46" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Combinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74898237">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
