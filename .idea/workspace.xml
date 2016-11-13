@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CreateMaximumNumber.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/SingleNumberII.java" afterPath="$PROJECT_DIR$/src/SingleNumberII.java" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SingleNumberII.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SingleNumberII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SingleNumberII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8127544">
+            <state vertical-scroll-proportion="0.0">
               <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateMaximumNumber.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CreateMaximumNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.3107191">
+              <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -65,7 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/TrappingRainWaterII.java" />
         <option value="$PROJECT_DIR$/src/RemoveInvalidParentheses.java" />
         <option value="$PROJECT_DIR$/src/AddStrings.java" />
         <option value="$PROJECT_DIR$/src/ArithmeticSlices.java" />
@@ -116,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/PowerOfFour.java" />
         <option value="$PROJECT_DIR$/src/GuessNumberHigherOrLowerII.java" />
         <option value="$PROJECT_DIR$/src/SingleNumberII.java" />
+        <option value="$PROJECT_DIR$/src/CreateMaximumNumber.java" />
       </list>
     </option>
   </component>
@@ -150,9 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -187,6 +194,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -562,12 +572,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00141" summary="new&#10;">
-      <created>1477055204016</created>
-      <option name="number" value="00141" />
-      <option name="project" value="LOCAL" />
-      <updated>1477055204023</updated>
-    </task>
     <task id="LOCAL-00142" summary="new&#10;">
       <created>1477055432898</created>
       <option name="number" value="00142" />
@@ -856,7 +860,13 @@
       <option name="project" value="LOCAL" />
       <updated>1478980864495</updated>
     </task>
-    <option name="localTasksCounter" value="190" />
+    <task id="LOCAL-00190" summary="new&#10;">
+      <created>1478981061685</created>
+      <option name="number" value="00190" />
+      <option name="project" value="LOCAL" />
+      <updated>1478981061686</updated>
+    </task>
+    <option name="localTasksCounter" value="191" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1039,13 +1049,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AddStrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5139665">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ThirdMaximumNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.76196635">
@@ -1395,8 +1398,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SingleNumberII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8127544">
+        <state vertical-scroll-proportion="0.0">
           <caret line="34" column="2" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CreateMaximumNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3107191">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
           <folding />
         </state>
       </provider>
