@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MaximumProductOfWordLengths.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NumberOf1Bits.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -25,11 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MaximumProductOfWordLengths.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MaximumProductOfWordLengths.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MaximumProductOfWordLengths.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6481836">
+            <state vertical-scroll-proportion="0.0">
               <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NumberOf1Bits.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NumberOf1Bits.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4837476">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -55,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/AddStrings.java" />
         <option value="$PROJECT_DIR$/src/ArithmeticSlices.java" />
         <option value="$PROJECT_DIR$/src/ThirdMaximumNumber.java" />
         <option value="$PROJECT_DIR$/src/ReconstructItinerary.java" />
@@ -106,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/SingleNumberII.java" />
         <option value="$PROJECT_DIR$/src/CreateMaximumNumber.java" />
         <option value="$PROJECT_DIR$/src/MaximumProductOfWordLengths.java" />
+        <option value="$PROJECT_DIR$/src/NumberOf1Bits.java" />
       </list>
     </option>
   </component>
@@ -552,12 +562,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00143" summary="new&#10;">
-      <created>1477057979013</created>
-      <option name="number" value="00143" />
-      <option name="project" value="LOCAL" />
-      <updated>1477057979013</updated>
-    </task>
     <task id="LOCAL-00144" summary="new&#10;">
       <created>1477124857598</created>
       <option name="number" value="00144" />
@@ -846,7 +850,13 @@
       <option name="project" value="LOCAL" />
       <updated>1479049854862</updated>
     </task>
-    <option name="localTasksCounter" value="192" />
+    <task id="LOCAL-00192" summary="new&#10;">
+      <created>1479220419493</created>
+      <option name="number" value="00192" />
+      <option name="project" value="LOCAL" />
+      <updated>1479220419493</updated>
+    </task>
+    <option name="localTasksCounter" value="193" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1030,13 +1040,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ReverseNodesInKGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13529412">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ReconstructItinerary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1388,8 +1391,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MaximumProductOfWordLengths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6481836">
+        <state vertical-scroll-proportion="0.0">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NumberOf1Bits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4837476">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
