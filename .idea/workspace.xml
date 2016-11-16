@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PartitionEqualSubsetSum.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -24,14 +25,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FrogJump.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FrogJump.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FrogJump.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4837476">
+            <state vertical-scroll-proportion="0.0">
               <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PartitionEqualSubsetSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PartitionEqualSubsetSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.3632888">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -56,7 +67,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ThirdMaximumNumber.java" />
         <option value="$PROJECT_DIR$/src/ReconstructItinerary.java" />
         <option value="$PROJECT_DIR$/src/RotateFunction.java" />
         <option value="$PROJECT_DIR$/src/ReconstructOriginalDigitsFromEnglish.java" />
@@ -107,6 +117,7 @@
         <option value="$PROJECT_DIR$/src/MaximumProductOfWordLengths.java" />
         <option value="$PROJECT_DIR$/src/NumberOf1Bits.java" />
         <option value="$PROJECT_DIR$/src/FrogJump.java" />
+        <option value="$PROJECT_DIR$/src/PartitionEqualSubsetSum.java" />
       </list>
     </option>
   </component>
@@ -553,12 +564,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00146" summary="new&#10;">
-      <created>1477205381909</created>
-      <option name="number" value="00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1477205381909</updated>
-    </task>
     <task id="LOCAL-00147" summary="new&#10;">
       <created>1477230356597</created>
       <option name="number" value="00147" />
@@ -847,7 +852,13 @@
       <option name="project" value="LOCAL" />
       <updated>1479301685606</updated>
     </task>
-    <option name="localTasksCounter" value="195" />
+    <task id="LOCAL-00195" summary="new&#10;">
+      <created>1479301721569</created>
+      <option name="number" value="00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1479301721569</updated>
+    </task>
+    <option name="localTasksCounter" value="196" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1031,13 +1042,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RotateFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ReconstructOriginalDigitsFromEnglish.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1390,11 +1394,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FrogJump.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4837476">
+        <state vertical-scroll-proportion="0.0">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PartitionEqualSubsetSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3632888">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
