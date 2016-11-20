@@ -25,7 +25,7 @@ public class NQueens {
             if (isValid(row, index, i)) {
                 row[index] = i;
                 solveNQueensCore(resList, row, n, index + 1);
-                row[index] = 0;
+
             }
         }
     }
