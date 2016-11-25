@@ -7,7 +7,7 @@ import java.util.List;
  */
 public class WordSearchII {
     public int[] dx = {1, 0, -1, 0};
-    public int[] dy = {1, 0, -1, 0};
+    public int[] dy = {0, 1, 0, -1};
 
 
     public List<String> findWords(char[][] board, String[] words) {
@@ -16,17 +16,35 @@ public class WordSearchII {
         for (int i = 0; i < words.length; i++) {
             tree.insert(words[i]);
         }
+
         for (int i = 0; i < board.length; i++) {
             for (int j = 0; j < board[i].length; j++) {
-                search();
+                search(board, i, j, tree.root, ans);
             }
         }
         return ans;
     }
 
-    private void search() {
-
+    private void search(char[][] board, int x, int y, TrieNode root, List<String> ans) {
+        if (root.isString) {
+            if (!ans.contains(root.s)){
+                ans.add(root.s);
+            }
+        }
+        if (x < 0 || x >= board.length || y < 0 || y >= board[0].length || board[x][y] == 0 || root == null){
+            return;
+        }
+        if (root.subTree.containsKey(board[x][y])) {
+            for (int i = 0; i < 4; i++) {
+                char now = board[x][y];
+                board[x][y] = 0;
+                search(board, x+ dx[i], y + dy[i], root.subTree.get(now), ans);
+                board[x][y] = now;
+            }
+        }
     }
+
+
 
     class TrieNode {
         String s;
