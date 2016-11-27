@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/PeekingIteratorII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/RangeSumQueryMutable.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -105,14 +105,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PeekingIteratorII.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PeekingIteratorII.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PeekingIteratorII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7191316">
+            <state vertical-scroll-proportion="0.0">
               <caret line="46" column="84" selection-start-line="46" selection-start-column="84" selection-end-line="46" selection-end-column="84" />
               <folding>
                 <element signature="e#1146#1147#0" expanded="true" />
                 <element signature="e#1237#1238#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RangeSumQueryMutable.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RangeSumQueryMutable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.093622796">
+              <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+              <folding>
+                <element signature="e#1029#1030#0" expanded="true" />
+                <element signature="e#1087#1088#0" expanded="true" />
+                <element signature="e#1122#1123#0" expanded="true" />
+                <element signature="e#1158#1159#0" expanded="true" />
+                <element signature="e#1631#1632#0" expanded="true" />
+                <element signature="e#1674#1675#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -148,7 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FirstUniqueCharacterInAString.java" />
         <option value="$PROJECT_DIR$/src/WordBreakII.java" />
         <option value="$PROJECT_DIR$/src/RangeSumQueryImmutable.java" />
         <option value="$PROJECT_DIR$/src/WordBreak.java" />
@@ -199,6 +215,7 @@
         <option value="$PROJECT_DIR$/src/SingleNumberIII.java" />
         <option value="$PROJECT_DIR$/src/ExpressionAddOperators.java" />
         <option value="$PROJECT_DIR$/src/PeekingIteratorII.java" />
+        <option value="$PROJECT_DIR$/src/RangeSumQueryMutable.java" />
       </list>
     </option>
   </component>
@@ -233,8 +250,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -645,12 +662,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00162" summary="new&#10;">
-      <created>1477836809322</created>
-      <option name="number" value="00162" />
-      <option name="project" value="LOCAL" />
-      <updated>1477836809322</updated>
-    </task>
     <task id="LOCAL-00163" summary="new&#10;">
       <created>1477917482785</created>
       <option name="number" value="00163" />
@@ -939,7 +950,13 @@
       <option name="project" value="LOCAL" />
       <updated>1480185940223</updated>
     </task>
-    <option name="localTasksCounter" value="211" />
+    <task id="LOCAL-00211" summary="new&#10;">
+      <created>1480190580233</created>
+      <option name="number" value="00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1480190580233</updated>
+    </task>
+    <option name="localTasksCounter" value="212" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -948,7 +965,6 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32793018" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27937338" sideWeight="0.5025" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -961,6 +977,7 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32793018" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1134,13 +1151,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RangeSumQueryImmutable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/WordBreak.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1507,11 +1517,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PeekingIteratorII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7191316">
+        <state vertical-scroll-proportion="0.0">
           <caret line="46" column="84" selection-start-line="46" selection-start-column="84" selection-end-line="46" selection-end-column="84" />
           <folding>
             <element signature="e#1146#1147#0" expanded="true" />
             <element signature="e#1237#1238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RangeSumQueryMutable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.093622796">
+          <caret line="36" column="31" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding>
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1087#1088#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1158#1159#0" expanded="true" />
+            <element signature="e#1631#1632#0" expanded="true" />
+            <element signature="e#1674#1675#0" expanded="true" />
           </folding>
         </state>
       </provider>
