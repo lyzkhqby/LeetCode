@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LongestSubstringWithAtLeastKRepeatingCharacters.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/UTF8Validation.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -48,14 +48,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestSubstringWithAtLeastKRepeatingCharacters.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LongestSubstringWithAtLeastKRepeatingCharacters.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LongestSubstringWithAtLeastKRepeatingCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.78018993">
+            <state vertical-scroll-proportion="0.0">
               <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UTF8Validation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/UTF8Validation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5929444">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -83,7 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/PowerOfFour.java" />
         <option value="$PROJECT_DIR$/src/GuessNumberHigherOrLowerII.java" />
         <option value="$PROJECT_DIR$/src/SingleNumberII.java" />
         <option value="$PROJECT_DIR$/src/CreateMaximumNumber.java" />
@@ -134,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/LongestRepeatingCharacterReplacement.java" />
         <option value="$PROJECT_DIR$/src/EliminationGame.java" />
         <option value="$PROJECT_DIR$/src/LongestSubstringWithAtLeastKRepeatingCharacters.java" />
+        <option value="$PROJECT_DIR$/src/UTF8Validation.java" />
       </list>
     </option>
   </component>
@@ -580,12 +590,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00178" summary="new&#10;">
-      <created>1478414390754</created>
-      <option name="number" value="00178" />
-      <option name="project" value="LOCAL" />
-      <updated>1478414390755</updated>
-    </task>
     <task id="LOCAL-00179" summary="new&#10;">
       <created>1478493309805</created>
       <option name="number" value="00179" />
@@ -874,7 +878,13 @@
       <option name="project" value="LOCAL" />
       <updated>1481037445027</updated>
     </task>
-    <option name="localTasksCounter" value="227" />
+    <task id="LOCAL-00227" summary="new&#10;">
+      <created>1481040990835</created>
+      <option name="number" value="00227" />
+      <option name="project" value="LOCAL" />
+      <updated>1481040990835</updated>
+    </task>
+    <option name="localTasksCounter" value="228" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1074,13 +1084,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PowerOfFour.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63772047">
-          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CreateMaximumNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9375848">
@@ -1483,11 +1486,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LongestSubstringWithAtLeastKRepeatingCharacters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.78018993">
+        <state vertical-scroll-proportion="0.0">
           <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UTF8Validation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5929444">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
