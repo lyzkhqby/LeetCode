@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/NonOverlappingIntervals.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MinimumNumberOfArrowsToBurstBalloons.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -109,11 +109,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NonOverlappingIntervals.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NonOverlappingIntervals.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NonOverlappingIntervals.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.22818792">
+            <state vertical-scroll-proportion="0.0">
               <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinimumNumberOfArrowsToBurstBalloons.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MinimumNumberOfArrowsToBurstBalloons.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.79418343">
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -144,7 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CoinChange.java" />
         <option value="$PROJECT_DIR$/src/DataStreamAsDisjointIntervals.java" />
         <option value="$PROJECT_DIR$/src/SumOfTwoIntegers.java" />
         <option value="$PROJECT_DIR$/src/WiggleSubsequence.java" />
@@ -195,6 +206,7 @@
         <option value="$PROJECT_DIR$/src/MinimumMovesToEqualArrayElementsII.java" />
         <option value="$PROJECT_DIR$/src/NumberOfSegmentsInAString.java" />
         <option value="$PROJECT_DIR$/src/NonOverlappingIntervals.java" />
+        <option value="$PROJECT_DIR$/src/MinimumNumberOfArrowsToBurstBalloons.java" />
       </list>
     </option>
   </component>
@@ -686,12 +698,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00173" summary="new&#10;">
-      <created>1478267805925</created>
-      <option name="number" value="00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1478267805926</updated>
-    </task>
     <task id="LOCAL-00174" summary="new&#10;">
       <created>1478272933477</created>
       <option name="number" value="00174" />
@@ -980,7 +986,13 @@
       <option name="project" value="LOCAL" />
       <updated>1481011573400</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="new&#10;">
+      <created>1481018307058</created>
+      <option name="number" value="00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1481018307058</updated>
+    </task>
+    <option name="localTasksCounter" value="223" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1180,13 +1192,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SumOfTwoIntegers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/WiggleSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1580,8 +1585,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NonOverlappingIntervals.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22818792">
+        <state vertical-scroll-proportion="0.0">
           <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinimumNumberOfArrowsToBurstBalloons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79418343">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
