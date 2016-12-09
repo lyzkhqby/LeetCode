@@ -3,10 +3,8 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-/**
- * Created by rotoosoft-d04 on 2016/12/8.
- */
 public class AllOoneDataStructure {
+
     private class Bucket {
         int count;
         Set<String> keySet;
@@ -50,17 +48,25 @@ public class AllOoneDataStructure {
 
     /** Decrements an existing key by 1. If Key's value is 1, remove it from the data structure. */
     public void dec(String key) {
-
+        if (keyCountMap.containsKey(key)) {
+            int count = keyCountMap.get(key);
+            if (count == 1) {
+                keyCountMap.remove(key);
+                removeKeyFromBucket(countBucketMap.get(count), key);
+            } else {
+                changeKey(key, -1);
+            }
+        }
     }
 
     /** Returns one of the keys with maximal value. */
     public String getMaxKey() {
-
+        return tail.pre == head ? "" : (String) tail.pre.keySet.iterator().next();
     }
 
     /** Returns one of the keys with Minimal value. */
     public String getMinKey() {
-
+        return head.next == tail ? "" : (String) head.next.keySet.iterator().next();
     }
 
     private void changeKey(String key, int offset) {
@@ -102,7 +108,6 @@ public class AllOoneDataStructure {
         preBucket.next = newBucket;
     }
 }
-
 
 /**
  * Your AllOne object will be instantiated and called as such:
