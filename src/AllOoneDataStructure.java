@@ -4,7 +4,6 @@ import java.util.Map;
 import java.util.Set;
 
 public class AllOoneDataStructure {
-
     private class Bucket {
         int count;
         Set<String> keySet;
@@ -53,7 +52,7 @@ public class AllOoneDataStructure {
             if (count == 1) {
                 keyCountMap.remove(key);
                 removeKeyFromBucket(countBucketMap.get(count), key);
-            } else {
+            }else {
                 changeKey(key, -1);
             }
         }
@@ -74,7 +73,7 @@ public class AllOoneDataStructure {
         keyCountMap.put(key, count + offset);
         Bucket curBucket = countBucketMap.get(count);
         Bucket newBucket;
-        if (keyCountMap.containsKey(count + offset)) {
+        if (countBucketMap.containsKey(count + offset)) {
             newBucket = countBucketMap.get(count + offset);
         }else {
             newBucket = new Bucket(count + offset);
@@ -108,6 +107,7 @@ public class AllOoneDataStructure {
         preBucket.next = newBucket;
     }
 }
+
 
 /**
  * Your AllOne object will be instantiated and called as such:
