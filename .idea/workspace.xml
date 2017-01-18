@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HammingDistance.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ValidateIPAddress.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -25,15 +25,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HammingDistance.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HammingDistance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/HammingDistance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.1943662">
+            <state vertical-scroll-proportion="0.0">
               <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding>
                 <element signature="e#116#117#0" expanded="true" />
                 <element signature="e#162#163#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidateIPAddress.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ValidateIPAddress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.8140845">
+              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -61,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BinaryWatch.java" />
         <option value="$PROJECT_DIR$/src/ArithmeticSlicesIISubsequence.java" />
         <option value="$PROJECT_DIR$/src/AssignCookies.java" />
         <option value="$PROJECT_DIR$/src/QueueReconstructionByHeight.java" />
@@ -112,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/AllOoneDataStructure.java" />
         <option value="$PROJECT_DIR$/src/AddTwoNumbersII.java" />
         <option value="$PROJECT_DIR$/src/HammingDistance.java" />
+        <option value="$PROJECT_DIR$/src/ValidateIPAddress.java" />
       </list>
     </option>
   </component>
@@ -180,9 +190,9 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -558,12 +568,6 @@
       <option name="number" value="Default" />
       <updated>1458703284660</updated>
     </task>
-    <task id="LOCAL-00185" summary="new&#10;">
-      <created>1478762277166</created>
-      <option name="number" value="00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1478762277167</updated>
-    </task>
     <task id="LOCAL-00186" summary="new&#10;">
       <created>1478835379998</created>
       <option name="number" value="00186" />
@@ -852,7 +856,13 @@
       <option name="project" value="LOCAL" />
       <updated>1482238909396</updated>
     </task>
-    <option name="localTasksCounter" value="234" />
+    <task id="LOCAL-00234" summary="new&#10;">
+      <created>1483155279838</created>
+      <option name="number" value="00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1483155279839</updated>
+    </task>
+    <option name="localTasksCounter" value="235" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1052,13 +1062,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AssignCookies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49932158">
-          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/QueueReconstructionByHeight.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6865672">
@@ -1423,12 +1426,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/HammingDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1943662">
+        <state vertical-scroll-proportion="0.0">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding>
             <element signature="e#116#117#0" expanded="true" />
             <element signature="e#162#163#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ValidateIPAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.8140845">
+          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
