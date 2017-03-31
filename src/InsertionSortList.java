@@ -1,6 +1,9 @@
 /**
  * Created by rotoosoft-d04 on 2016/6/14.
  */
+/**
+    Sort a linked list using insertion sort.
+ */
 public class InsertionSortList {
     public ListNode insertionSortList(ListNode head) {
         ListNode dummy = new ListNode(0);

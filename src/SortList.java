@@ -1,6 +1,11 @@
 /**
  * Created by rotoosoft-d04 on 2016/6/15.
  */
+
+/**
+ * Sort a linked list in O(n log n) time using constant space complexity.
+ */
+
 public class SortList {
     public ListNode sortList(ListNode head) {
         if(head == null || head.next == null) return head;
