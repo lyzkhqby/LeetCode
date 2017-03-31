@@ -1,10 +1,6 @@
 /**
  * Created by zk on 2017/3/31.
  */
-
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  Given an array of integers where 1 ≤ a[i] ≤ n (n = size of array), some elements appear twice and others appear once.
 
@@ -20,6 +16,11 @@ import java.util.List;
  Output:
  [5,6]
  */
+
+import java.util.ArrayList;
+import java.util.List;
+
+
 public class FindAllNumbersDisappearedInAnArray {
     public List<Integer> findDisappearedNumbers(int[] nums) {
         List<Integer> res = new ArrayList<>();
