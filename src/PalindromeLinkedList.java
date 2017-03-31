@@ -1,6 +1,16 @@
 /**
  * Created by zk on 2016/8/21.
  */
+/**
+ Given a singly linked list, determine if it is a palindrome.
+
+ Follow up:
+ Could you do it in O(n) time and O(1) space?
+ */
+/**
+ 判断 fast ！= null 是为了[1, 2]类似的特殊情况
+ */
+
 public class PalindromeLinkedList {
     public boolean isPalindrome(ListNode head) {
         if (head == null || head.next == null) return true;
