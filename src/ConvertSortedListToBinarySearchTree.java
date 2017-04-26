@@ -1,6 +1,9 @@
 /**
  * Created by zk on 2016/10/13.
  */
+/**
+ Given a singly linked list where elements are sorted in ascending order, convert it to a height balanced BST.
+ */
 public class ConvertSortedListToBinarySearchTree {
 
     public TreeNode sortedListToBST(ListNode head) {
