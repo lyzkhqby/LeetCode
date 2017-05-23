@@ -4,6 +4,16 @@ import java.util.Stack;
 
 /**
  * Created by rotoosoft-d04 on 2016/5/12.
+Given a binary tree, return the postorder traversal of its nodes' values.
+
+For example:
+Given binary tree {1,#,2,3},
+   1
+    \
+     2
+    /
+   3
+return [3,2,1].
  */
 public class BinaryTreePostorderTraversal {
     public List<Integer> postorderTraversal(TreeNode root) {
