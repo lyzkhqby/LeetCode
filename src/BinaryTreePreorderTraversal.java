@@ -3,6 +3,16 @@ import java.util.List;
 
 /**
  * Created by rotoosoft-d04 on 2016/4/25.
+Given a binary tree, return the preorder traversal of its nodes' values.
+
+For example:
+Given binary tree {1,#,2,3},
+   1
+    \
+     2
+    /
+   3
+return [1,2,3].
  */
 public class BinaryTreePreorderTraversal {
     public List<Integer> preorderTraversal(TreeNode root) {
