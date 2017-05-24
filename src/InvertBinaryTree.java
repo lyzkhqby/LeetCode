@@ -1,5 +1,18 @@
 /**
  * Created by rotoosoft-d04 on 2016/4/18.
+ Invert a binary tree.
+
+     4
+   /   \
+  2     7
+ / \   / \
+1   3 6   9
+to
+     4
+   /   \
+  7     2
+ / \   / \
+9   6 3   1
  */
 public class InvertBinaryTree {
     public TreeNode invertTree(TreeNode root) {
