@@ -1,5 +1,6 @@
 /**
  * Created by zk on 2016/5/1.
+ Given an array where elements are sorted in ascending order, convert it to a height balanced BST.
  */
 public class ConvertSortedArrayToBinarySearchTree {
 
