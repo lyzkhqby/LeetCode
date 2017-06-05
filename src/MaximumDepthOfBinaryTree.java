@@ -1,5 +1,8 @@
 /**
  * Created by rotoosoft-d04 on 2016/4/15.
+Given a binary tree, find its minimum depth.
+
+The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
  */
 public class MaximumDepthOfBinaryTree {
     public int maxDepth(TreeNode root) {
