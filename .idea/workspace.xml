@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/PlusOne.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="LeetCode.iws" />
@@ -59,8 +58,8 @@
       <file leaf-file-name="PlusOne.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PlusOne.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding>
                 <element signature="e#0#679#0" expanded="true" />
               </folding>
@@ -564,14 +563,7 @@
       <workItem from="1515462844919" duration="4005000" />
       <workItem from="1515738599138" duration="1848000" />
       <workItem from="1519595607607" duration="1762000" />
-      <workItem from="1520253616777" duration="488000" />
-    </task>
-    <task id="LOCAL-00191" summary="new&#10;">
-      <created>1479049854861</created>
-      <option name="number" value="00191" />
-      <option name="presentableId" value="LOCAL-00191" />
-      <option name="project" value="LOCAL" />
-      <updated>1479049854862</updated>
+      <workItem from="1520253616777" duration="585000" />
     </task>
     <task id="LOCAL-00192" summary="new&#10;">
       <created>1479220419493</created>
@@ -909,11 +901,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519596204262</updated>
     </task>
-    <option name="localTasksCounter" value="240" />
+    <task id="LOCAL-00240" summary="PlusOne">
+      <created>1520258158407</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1520258158408</updated>
+    </task>
+    <option name="localTasksCounter" value="241" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9853000" />
+    <option name="totallyTimeSpent" value="9950000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -971,7 +970,8 @@
     <MESSAGE value="ArrayNesting" />
     <MESSAGE value="MaximumLengthOfRepeatedSubarray" />
     <MESSAGE value="towsum" />
-    <option name="LAST_COMMIT_MESSAGE" value="towsum" />
+    <MESSAGE value="PlusOne" />
+    <option name="LAST_COMMIT_MESSAGE" value="PlusOne" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1489,8 +1489,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/PlusOne.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="e#0#679#0" expanded="true" />
           </folding>
