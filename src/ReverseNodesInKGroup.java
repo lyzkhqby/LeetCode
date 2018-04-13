@@ -2,6 +2,7 @@
  * Created by rotoosoft-d04 on 2016/10/17.
  */
 public class ReverseNodesInKGroup {
+
     public ListNode reverseKGroup(ListNode head, int k) {
         if (head == null || k <= 1) return head;
         ListNode dummy = new ListNode(0);

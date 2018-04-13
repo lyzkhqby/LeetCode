@@ -10,7 +10,7 @@ public class WordPattern {
         if (words.length != pattern.length()) return false;
         int len = words.length;
         Map map = new HashMap<>();
-        for (Integer i= 0; i < len; i++) {
+        for (Integer i= 0; i < len; i++) { //由于put返回的是Integer，如果用int会出现Integer地址不一样
             if (map.put(pattern.charAt(i), i) != map.put(words[i], i)) {
                 return false;
             }
@@ -18,8 +18,6 @@ public class WordPattern {
         return true;
 
     }
-
-
 
 
     public static void main(String[] args) {
