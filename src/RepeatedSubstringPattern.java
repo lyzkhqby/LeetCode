@@ -35,4 +35,5 @@ public class RepeatedSubstringPattern {
     }
 }
 
-//测试用例[a, b, a, b, a, b, b, a, b, a, b, a, b, b]
+//测试用例[a, b, a, b, a, b, b, a, b, a, b, a, b, b] 
+//参考kmp算法
