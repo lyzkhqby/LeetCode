@@ -20,7 +20,7 @@ Output: True
 Explanation: It's the substring "abc" four times. (And the substring "abcabc" twice.)
  */
 public class RepeatedSubstringPattern {
-    public boolean repeatedSubstringPattern(String str) {
+    public static boolean repeatedSubstringPattern(String str) {
         int n = str.length(), cur = 0, j = 1;
         int[] pattern = new int[n];
         while (j < n) {
@@ -32,6 +32,11 @@ public class RepeatedSubstringPattern {
             }
         }
         return (pattern[n - 1] > 0 && n % (n - pattern[n - 1]) == 0);
+    }
+
+    public static void main(String[] args) {
+        String test = "abababbabababb";
+        System.out.println(repeatedSubstringPattern(test));
     }
 }
 

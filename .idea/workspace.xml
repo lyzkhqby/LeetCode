@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MoveZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/FirstMissingPositive.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseNodesInkGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseNodesInKGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/WordPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/WordPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RepeatedSubstringPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RepeatedSubstringPattern.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,11 +42,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WordPattern.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WordPattern.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WordPattern.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RepeatedSubstringPattern.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RepeatedSubstringPattern.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BestTimeToBuyAndSellStock.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -71,6 +87,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>*,</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
@@ -80,7 +101,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ImplementTrie.java" />
         <option value="$PROJECT_DIR$/src/AddAndSearchWordDataStructurDesign.java" />
         <option value="$PROJECT_DIR$/src/WordSearchII.java" />
         <option value="$PROJECT_DIR$/src/SingleNumberIII.java" />
@@ -97,7 +117,6 @@
         <option value="$PROJECT_DIR$/src/MinimumMovesToEqualArrayElements.java" />
         <option value="$PROJECT_DIR$/src/CountOfSmallerNumbersAfterSelf.java" />
         <option value="$PROJECT_DIR$/src/NumberOfBoomerangs.java" />
-        <option value="$PROJECT_DIR$/src/RepeatedSubstringPattern.java" />
         <option value="$PROJECT_DIR$/src/ArrangingCoins.java" />
         <option value="$PROJECT_DIR$/src/StrongPasswordChecker.java" />
         <option value="$PROJECT_DIR$/src/PerfectRectangle.java" />
@@ -131,6 +150,8 @@
         <option value="$PROJECT_DIR$/src/MoveZero.java" />
         <option value="$PROJECT_DIR$/src/ReverseNodesInkGroup.java" />
         <option value="$PROJECT_DIR$/src/WordPattern.java" />
+        <option value="$PROJECT_DIR$/src/RepeatedSubstringPattern.java" />
+        <option value="$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java" />
       </list>
     </option>
   </component>
@@ -150,11 +171,23 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,18 +199,6 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
             </path>
           </expand>
           <select />
@@ -206,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WordPattern">
+  <component name="RunManager" selected="Application.RepeatedSubstringPattern">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -220,8 +241,8 @@
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="NQueensII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NQueensII" />
+    <configuration name="RepeatedSubstringPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepeatedSubstringPattern" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -436,19 +457,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.NQueensII" />
       <item itemvalue="Application.SingleNumberIII" />
       <item itemvalue="Application.CountOfRangeSum" />
       <item itemvalue="Application.CountOfSmallerNumbersAfterSelf" />
       <item itemvalue="Application.WordPattern" />
+      <item itemvalue="Application.RepeatedSubstringPattern" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RepeatedSubstringPattern" />
         <item itemvalue="Application.WordPattern" />
         <item itemvalue="Application.CountOfSmallerNumbersAfterSelf" />
         <item itemvalue="Application.CountOfRangeSum" />
         <item itemvalue="Application.SingleNumberIII" />
-        <item itemvalue="Application.NQueensII" />
       </list>
     </recent_temporary>
   </component>
@@ -481,14 +502,8 @@
       <workItem from="1523166136210" duration="5873000" />
       <workItem from="1523412239535" duration="1782000" />
       <workItem from="1523433184740" duration="748000" />
-      <workItem from="1523498261530" duration="1735000" />
-    </task>
-    <task id="LOCAL-00194" summary="new&#10;">
-      <created>1479301685604</created>
-      <option name="number" value="00194" />
-      <option name="presentableId" value="LOCAL-00194" />
-      <option name="project" value="LOCAL" />
-      <updated>1479301685606</updated>
+      <workItem from="1523498261530" duration="2993000" />
+      <workItem from="1523845819774" duration="2629000" />
     </task>
     <task id="LOCAL-00195" summary="new&#10;">
       <created>1479301721569</created>
@@ -826,11 +841,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522205565655</updated>
     </task>
-    <option name="localTasksCounter" value="243" />
+    <task id="LOCAL-00243" summary="movezero">
+      <created>1523614842298</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1523614842298</updated>
+    </task>
+    <option name="localTasksCounter" value="244" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34596000" />
+    <option name="totallyTimeSpent" value="38483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -849,14 +871,14 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21979167" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21979167" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="top" x="527" y="400" width="931" height="503" id="Debug" order="0" type="FLOATING" weight="0.5147992" />
+      <window_info anchor="top" x="689" y="459" width="931" height="503" id="Debug" order="0" type="FLOATING" weight="0.5147992" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.32769555" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -891,7 +913,8 @@
     <MESSAGE value="SearchInsertPosition" />
     <MESSAGE value="MaximumSubarray" />
     <MESSAGE value="UniquePaths" />
-    <option name="LAST_COMMIT_MESSAGE" value="UniquePaths" />
+    <MESSAGE value="movezero" />
+    <option name="LAST_COMMIT_MESSAGE" value="movezero" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1031,14 +1054,19 @@
           <properties />
           <option name="timeStamp" value="80" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/RepeatedSubstringPattern.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="91" />
+      <option name="time" value="92" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
-        <watch expression="map.put(pattern.charAt(i), i)" />
-        <watch expression="map.put(words[i], i)" />
-        <watch expression="pattern.charAt(i)" />
+        <watch expression="str.charAt(cur)" />
+        <watch expression="str.charAt(j)" />
       </configuration>
     </watches-manager>
   </component>
@@ -1047,13 +1075,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/WordPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UniquePaths.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -1079,13 +1100,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RepeatedSubstringPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="47" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
         </state>
       </provider>
     </entry>
@@ -1401,6 +1415,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RepeatedSubstringPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
         </state>
       </provider>
     </entry>
