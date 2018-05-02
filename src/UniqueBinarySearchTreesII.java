@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * Created by zk on 2016/5/3.
  */
-public class UniqueBinarySearchTrees2 {
+public class UniqueBinarySearchTreesII {
 
     public List<TreeNode> generateTrees(int n) {
         if (n == 0) return new ArrayList<>();
