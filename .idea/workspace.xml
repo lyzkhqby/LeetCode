@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PathSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PathSumII.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,11 +40,7 @@
         <entry file="file://$PROJECT_DIR$/src/PathSumII.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-              <folding>
-                <element signature="e#239#254#0" expanded="true" />
-                <element signature="e#324#333#0" expanded="true" />
-              </folding>
+              <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -62,8 +57,8 @@
       <file leaf-file-name="FlattenBinaryTreeToLinkedList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/FlattenBinaryTreeToLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="270">
+              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -506,14 +501,8 @@
       <workItem from="1524447600524" duration="15488000" />
       <workItem from="1524641707239" duration="7885000" />
       <workItem from="1524793173423" duration="3818000" />
-      <workItem from="1525227167814" duration="14585000" />
-    </task>
-    <task id="LOCAL-00201" summary="new&#10;">
-      <created>1479572929797</created>
-      <option name="number" value="00201" />
-      <option name="presentableId" value="LOCAL-00201" />
-      <option name="project" value="LOCAL" />
-      <updated>1479572929798</updated>
+      <workItem from="1525227167814" duration="15124000" />
+      <workItem from="1525341710634" duration="228000" />
     </task>
     <task id="LOCAL-00202" summary="new&#10;">
       <created>1479613933278</created>
@@ -851,14 +840,22 @@
       <option name="project" value="LOCAL" />
       <updated>1525255655098</updated>
     </task>
-    <option name="localTasksCounter" value="250" />
+    <task id="LOCAL-00250" summary="new">
+      <created>1525340985645</created>
+      <option name="number" value="00250" />
+      <option name="presentableId" value="LOCAL-00250" />
+      <option name="project" value="LOCAL" />
+      <updated>1525340985645</updated>
+    </task>
+    <option name="localTasksCounter" value="251" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110491000" />
+    <option name="totallyTimeSpent" value="111030000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -873,7 +870,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21979167" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21979167" />
       <window_info anchor="right" id="Database" order="5" weight="0.3296875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1061,6 +1058,13 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/FlattenBinaryTreeToLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/IntegerToRoman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -1375,7 +1379,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="53.0" y="15.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="53.0" y="16.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -1738,7 +1742,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0580346355215464" x="1150.5000000000002" y="400.1185718092193" />
+          <settings layout="Hierarchic Group" zoom="1.0580346355215464" x="1151.0" y="400.0" />
           <SelectedNodes />
           <Categories>
             <Category>Methods</Category>
@@ -1762,17 +1766,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9bb996a7-1e78-4004-8128-cba1519e6752/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PathSumII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-          <folding>
-            <element signature="e#239#254#0" expanded="true" />
-            <element signature="e#324#333#0" expanded="true" />
-          </folding>
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -1785,8 +1782,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FlattenBinaryTreeToLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        <state relative-caret-position="270">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
         </state>
       </provider>
     </entry>
