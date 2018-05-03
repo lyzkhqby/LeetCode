@@ -7,36 +7,33 @@ import java.util.List;
 public class PathSumII {
 
     public List<List<Integer>> pathSum(TreeNode root, int sum) {
-        List<List<Integer>> lists = new ArrayList<>();
-        if (root != null) {
-            List<Integer> list = new ArrayList<>();
-            helper(root, list, lists, sum);
-        }
+        List<List<Integer>> rst = new ArrayList<List<Integer>>();
+        List<Integer> solution = new ArrayList<Integer>();
 
-        return lists;
+        findSum(rst, solution, root, sum);
+        return rst;
     }
 
-    private void helper(TreeNode root, List<Integer> list, List<List<Integer>> lists, int sum) {
-        List<Integer> temp = new ArrayList<>();
-        temp.addAll(list);
-        temp.add(root.val);
+    private void findSum(List<List<Integer>> result, List<Integer> solution, TreeNode root, int sum) {
+        if (root == null) {
+            return;
+        }
+
+        sum -= root.val;
+
         if (root.left == null && root.right == null) {
-            if (sum  == root.val) {
-                lists.add(temp);
+            if (sum == 0){
+                solution.add(root.val);
+                result.add(new ArrayList<>(solution));
+                solution.remove(solution.size()-1);
             }
             return;
-
         }
 
-
-        TreeNode right = root.right;
-        if (root.left != null) {
-            helper(root.left, temp, lists, sum - root.val);
-        }
-        if(right != null) {
-            helper(right, temp, lists, sum - root.val);
-        }
-
+        solution.add(root.val);
+        findSum(result, solution, root.left, sum);
+        findSum(result, solution, root.right, sum);
+        solution.remove(solution.size()-1);
     }
 
     public class TreeNode {

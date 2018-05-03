@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="new">
+    <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UniqueBinarySearchTrees2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UniqueBinarySearchTreesII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValidateBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ValidateBinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PathSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PathSumII.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -19,34 +18,52 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="F:\LeetCode\LeetCode" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="LeetCode" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UniqueBinarySearchTrees.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UniqueBinarySearchTrees.java">
+      <file leaf-file-name="PathSumII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PathSumII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+              <folding>
+                <element signature="e#239#254#0" expanded="true" />
+                <element signature="e#324#333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConvertSortedListToBinarySearchTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ConvertSortedListToBinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlattenBinaryTreeToLinkedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FlattenBinaryTreeToLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
               <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UniqueBinarySearchTreesII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UniqueBinarySearchTreesII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ValidateBinarySearchTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ValidateBinarySearchTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -75,8 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/StrongPasswordChecker.java" />
-        <option value="$PROJECT_DIR$/src/PerfectRectangle.java" />
         <option value="$PROJECT_DIR$/src/MinimumMovesToEqualArrayElementsII.java" />
         <option value="$PROJECT_DIR$/src/NumberOfSegmentsInAString.java" />
         <option value="$PROJECT_DIR$/src/NonOverlappingIntervals.java" />
@@ -126,6 +141,8 @@
         <option value="$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArrayII.java" />
         <option value="$PROJECT_DIR$/src/UniqueBinarySearchTreesII.java" />
         <option value="$PROJECT_DIR$/src/ValidateBinarySearchTree.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/9bb996a7-1e78-4004-8128-cba1519e6752/console.sql" />
+        <option value="$PROJECT_DIR$/src/PathSumII.java" />
       </list>
     </option>
   </component>
@@ -183,11 +200,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../any-video" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -488,14 +506,7 @@
       <workItem from="1524447600524" duration="15488000" />
       <workItem from="1524641707239" duration="7885000" />
       <workItem from="1524793173423" duration="3818000" />
-      <workItem from="1525227167814" duration="4122000" />
-    </task>
-    <task id="LOCAL-00200" summary="new&#10;">
-      <created>1479563808346</created>
-      <option name="number" value="00200" />
-      <option name="presentableId" value="LOCAL-00200" />
-      <option name="project" value="LOCAL" />
-      <updated>1479563808346</updated>
+      <workItem from="1525227167814" duration="14585000" />
     </task>
     <task id="LOCAL-00201" summary="new&#10;">
       <created>1479572929797</created>
@@ -833,15 +844,21 @@
       <option name="project" value="LOCAL" />
       <updated>1524644002850</updated>
     </task>
-    <option name="localTasksCounter" value="249" />
+    <task id="LOCAL-00249" summary="new">
+      <created>1525255655098</created>
+      <option name="number" value="00249" />
+      <option name="presentableId" value="LOCAL-00249" />
+      <option name="project" value="LOCAL" />
+      <updated>1525255655098</updated>
+    </task>
+    <option name="localTasksCounter" value="250" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100028000" />
+    <option name="totallyTimeSpent" value="110491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="5" />
@@ -857,7 +874,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Designer" order="3" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21979167" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3296875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -1044,69 +1061,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BestTimeToBuyAndSellStockII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="45" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestPalindromicSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ZigZagConversion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RomanToInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/IntegerToRoman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -1401,6 +1355,438 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTreeZigzagLevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/PathSumII">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>PathSumII</OriginalElement>
+          <nodes>
+            <node x="" y="">PathSumII</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="53.0" y="15.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">CountTheRepetitions</node>
+            <node x="" y="">RemoveNthNodeFromEndOfList</node>
+            <node x="" y="">ValidPalindrome</node>
+            <node x="" y="">LexicographicalNumbers</node>
+            <node x="" y="">LongestPalindrome</node>
+            <node x="" y="">BasicCalculator</node>
+            <node x="" y="">ValidateBinarySearchTree</node>
+            <node x="" y="">FractionToRecurringDecimal</node>
+            <node x="" y="">RussianDollEnvelopes</node>
+            <node x="" y="">TaskScheduler</node>
+            <node x="" y="">PartitionList</node>
+            <node x="" y="">SearchA2DMatrix</node>
+            <node x="" y="">SubstringWithConcatenationOfAllWords</node>
+            <node x="" y="">CloneGraph</node>
+            <node x="" y="">MaximumGap</node>
+            <node x="" y="">java</node>
+            <node x="" y="">ReverseInteger</node>
+            <node x="" y="">ReconstructItinerary</node>
+            <node x="" y="">RemoveInvalidParentheses</node>
+            <node x="" y="">IntegerToEnglishWords</node>
+            <node x="" y="">DifferentWaysToAddParentheses</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">ReverseNodesInKGroup</node>
+            <node x="" y="">FindAllDuplicatesInAnArray</node>
+            <node x="" y="">MiniParser</node>
+            <node x="" y="">MinimumDepthOfBinaryTree</node>
+            <node x="" y="">ExcelSheetColumnTitle</node>
+            <node x="" y="">UniqueSubstringsInWraparoundString</node>
+            <node x="" y="">PartitionEqualSubsetSum</node>
+            <node x="" y="">NumberOfSegmentsInAString</node>
+            <node x="" y="">FourSum</node>
+            <node x="" y="">BinaryTreeLevelOrderTraversalII</node>
+            <node x="" y="">IsomorphicStrings</node>
+            <node x="" y="">LinkedListCycle</node>
+            <node x="" y="">RemoveLinkedListElements</node>
+            <node x="" y="">ValidPerfectSquare</node>
+            <node x="" y="">RemoveDuplicatesFromSortedArrayII</node>
+            <node x="" y="">WaterAndJugProblem</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">ImplementStrStr</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">ExcelSheetColumnNumber</node>
+            <node x="" y="">ImplementStackUsingQueues</node>
+            <node x="" y="">InvertBinaryTree</node>
+            <node x="" y="">SearchInsertPosition</node>
+            <node x="" y="">LongestSubstringWithoutRepeatingCharacters</node>
+            <node x="" y="">KthLargestElementInAnArray</node>
+            <node x="" y="">InterleavingString</node>
+            <node x="" y="">Pow</node>
+            <node x="" y="">AddBinary</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">ImplementTrie</node>
+            <node x="" y="">RecoverBinarySearchTree</node>
+            <node x="" y="">PalindromePartitioning</node>
+            <node x="" y="">PalindromeNumber</node>
+            <node x="" y="">LongestValidParentheses</node>
+            <node x="" y="">BinaryTreePostorderTraversal</node>
+            <node x="" y="">LengthOfLastWord</node>
+            <node x="" y="">ArrangingCoins</node>
+            <node x="" y="">LongestRepeatingCharacterReplacement</node>
+            <node x="" y="">ShuffleAnArray</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">HouseRobberII</node>
+            <node x="" y="">ArithmeticSlices</node>
+            <node x="" y="">RegularExpressionMatching</node>
+            <node x="" y="">ReverseString</node>
+            <node x="" y="">OneThreeTwoPattern</node>
+            <node x="" y="">SelfCrossing</node>
+            <node x="" y="">TrappingRainWater</node>
+            <node x="" y="">DecodeWays</node>
+            <node x="" y="">DeleteNodeInABST</node>
+            <node x="" y="">PalindromeLinkedList</node>
+            <node x="" y="">PermutationSequence</node>
+            <node x="" y="">MaximalRectangle</node>
+            <node x="" y="">EditDistance</node>
+            <node x="" y="">ArithmeticSlicesIISubsequence</node>
+            <node x="" y="">FindAllAnagramsInAString</node>
+            <node x="" y="">ThreeSum</node>
+            <node x="" y="">FlattenNestedListIterator</node>
+            <node x="" y="">FindMedianFromDataStream</node>
+            <node x="" y="">PermutationsII</node>
+            <node x="" y="">FindTheDifference</node>
+            <node x="" y="">FactorialTrailingZeroes</node>
+            <node x="" y="">MinimumMovesToEqualArrayElementsII</node>
+            <node x="" y="">ValidParentheses</node>
+            <node x="" y="">BattleshipsInABoard</node>
+            <node x="" y="">ThirdMaximumNumber</node>
+            <node x="" y="">TwoSum</node>
+            <node x="" y="">SudokuSolver</node>
+            <node x="" y="">CountCompleteTreeNodes</node>
+            <node x="" y="">UniqueBinarySearchTrees</node>
+            <node x="" y="">ReverseLinkedList</node>
+            <node x="" y="">CountNumbersWithUniqueDigits</node>
+            <node x="" y="">HIndexII</node>
+            <node x="" y="">TopKFrequentElements</node>
+            <node x="" y="">DungeonGame</node>
+            <node x="" y="">RectangleArea</node>
+            <node x="" y="">WordLadderII</node>
+            <node x="" y="">CreateMaximumNumber</node>
+            <node x="" y="">InsertDeleteGetRandom</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">NimGame</node>
+            <node x="" y="">MinimumMovesToEqualArrayElements</node>
+            <node x="" y="">ExpressionAddOperators</node>
+            <node x="" y="">BinaryTreeInorderTraversal</node>
+            <node x="" y="">WordBreakII</node>
+            <node x="" y="">IntegerReplacement</node>
+            <node x="" y="">SortColors</node>
+            <node x="" y="">ConvertSortedListToBinarySearchTree</node>
+            <node x="" y="">SumOfTwoIntegers</node>
+            <node x="" y="">NextPermutation</node>
+            <node x="" y="">RemoveElement</node>
+            <node x="" y="">OddEvenLinkedList</node>
+            <node x="" y="">FirstBadVersion</node>
+            <node x="" y="">WiggleSubsequence</node>
+            <node x="" y="">CourseScheduleII</node>
+            <node x="" y="">HIndex</node>
+            <node x="" y="">CompareVersionNumbers</node>
+            <node x="" y="">IntegerToRoman</node>
+            <node x="" y="">ValidSudoku</node>
+            <node x="" y="">RepeatedSubstringPattern</node>
+            <node x="" y="">PerfectSquares</node>
+            <node x="" y="">TrappingRainWaterII</node>
+            <node x="" y="">ClimbingStairs</node>
+            <node x="" y="">EliminationGame</node>
+            <node x="" y="">AllOoneDataStructure</node>
+            <node x="" y="">NQueens</node>
+            <node x="" y="">ConvertANumberToHexadecimal</node>
+            <node x="" y="">RemoveDuplicateLetters</node>
+            <node x="" y="">LargestDivisibleSubset</node>
+            <node x="" y="">UglyNumber</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">MinimumHeightTrees</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">ReverseWordsInAString</node>
+            <node x="" y="">CopyListWithRandomPointer</node>
+            <node x="" y="">RemoveDuplicatesFromSortedList</node>
+            <node x="" y="">UTF8Validation</node>
+            <node x="" y="">PeekingIteratorII</node>
+            <node x="" y="">SwapNodesInPairs</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">GasStation</node>
+            <node x="" y="">AddStrings</node>
+            <node x="" y="">RotateList</node>
+            <node x="" y="">PlusOne</node>
+            <node x="" y="">CoinChange</node>
+            <node x="" y="">PopulatingNextRightPointersInEachNodeII</node>
+            <node x="" y="">FindAllNumbersDisappearedInAnArray</node>
+            <node x="" y="">CountPrimes</node>
+            <node x="" y="">MaximumLengthOfRepeatedSubarray</node>
+            <node x="" y="">CombinationSum</node>
+            <node x="" y="">ReconstructOriginalDigitsFromEnglish</node>
+            <node x="" y="">VerifyPreorderSerializationOfABinaryTree</node>
+            <node x="" y="">LRUCache</node>
+            <node x="" y="">IslandPerimeter</node>
+            <node x="" y="">ReverseLinkedListII</node>
+            <node x="" y="">GameOfLife</node>
+            <node x="" y="">CombinationSumII</node>
+            <node x="" y="">StringToInteger</node>
+            <node x="" y="">FlattenBinaryTreeToLinkedList</node>
+            <node x="" y="">ZigZagConversion</node>
+            <node x="" y="">BinaryTreeZigzagLevelOrderTraversal</node>
+            <node x="" y="">MedianOfTwoSortedArrays</node>
+            <node x="" y="">HammingDistance</node>
+            <node x="" y="">CombinationSumIV</node>
+            <node x="" y="">ReverseVowelsOfAString</node>
+            <node x="" y="">TwoSumII</node>
+            <node x="" y="">NonOverlappingIntervals</node>
+            <node x="" y="">RangeSumQueryImmutable</node>
+            <node x="" y="">ValidNumber</node>
+            <node x="" y="">ImplementQueueUsingStacks</node>
+            <node x="" y="">TextJustification</node>
+            <node x="" y="">BurstBalloons</node>
+            <node x="" y="">MinStack</node>
+            <node x="" y="">IsSubsequence</node>
+            <node x="" y="">SurroundedRegions</node>
+            <node x="" y="">SingleNumberII</node>
+            <node x="" y="">WordSearchII</node>
+            <node x="" y="">CountOfSmallerNumbersAfterSelf</node>
+            <node x="" y="">SingleNumber</node>
+            <node x="" y="">RemoveDuplicatesFromSortedListII</node>
+            <node x="" y="">SuperPow</node>
+            <node x="" y="">BullsAndCows</node>
+            <node x="" y="">BinaryTreeLevelOrder</node>
+            <node x="" y="">BitwiseANDOfNumbersRange</node>
+            <node x="" y="">org</node>
+            <node x="" y="">BalancedBinaryTree</node>
+            <node x="" y="">FourSumII</node>
+            <node x="" y="">ReverseBits</node>
+            <node x="" y="">RangeSumQuery2DImmutable</node>
+            <node x="" y="">PowerOfFour</node>
+            <node x="" y="">BinaryTreePreorderTraversal</node>
+            <node x="" y="">RepeatedDNASequences</node>
+            <node x="" y="">StrongPasswordChecker</node>
+            <node x="" y="">RemoveKDigits</node>
+            <node x="" y="">FirstUniqueCharacterInAString</node>
+            <node x="" y="">InsertionSortList</node>
+            <node x="" y="">LargestNumber</node>
+            <node x="" y="">LowestCommonAncestorOfABinaryTree</node>
+            <node x="" y="">DataStreamAsDisjointIntervals</node>
+            <node x="" y="">ReorderList</node>
+            <node x="" y="">FindKPairsWithSmallestSums</node>
+            <node x="" y="">MaximumDepthOfBinaryTree</node>
+            <node x="" y="">EvaluateDivision</node>
+            <node x="" y="">NumberOfBoomerangs</node>
+            <node x="" y="">BinaryTreePaths</node>
+            <node x="" y="">RemoveDuplicatesFromSortedArray</node>
+            <node x="" y="">MaxPointsOnALine</node>
+            <node x="" y="">ValidateIPAddress</node>
+            <node x="" y="">RotateFunction</node>
+            <node x="" y="">HappyNumber</node>
+            <node x="" y="">SumOfLeftLeaves</node>
+            <node x="" y="">RestoreIPAddresses</node>
+            <node x="" y="">SimplifyPath</node>
+            <node x="" y="">MergeKSortedLists</node>
+            <node x="" y="">DivideTwoIntegers</node>
+            <node x="" y="">EvaluateReversePolishNotation</node>
+            <node x="" y="">SerializeAndDeserializeBinaryTree</node>
+            <node x="" y="">NumberOfDigitOne</node>
+            <node x="" y="">WordBreak</node>
+            <node x="" y="">FindRightInterval</node>
+            <node x="" y="">PathSumIII</node>
+            <node x="" y="">DesignTwitter</node>
+            <node x="" y="">WordPattern</node>
+            <node x="" y="">RangeSumQueryMutable</node>
+            <node x="" y="">ArrayNesting</node>
+            <node x="" y="">KthSmallestElementInASortedMatrix</node>
+            <node x="" y="">PathSumII</node>
+            <node x="" y="">DeleteNodeInALinkedList</node>
+            <node x="" y="">PowerOfTwo</node>
+            <node x="" y="">ContainerWithMostWater</node>
+            <node x="" y="">MaximalSquare</node>
+            <node x="" y="">LongestSubstringWithAtLeastKRepeatingCharacters</node>
+            <node x="" y="">Combinations</node>
+            <node x="" y="">GuessNumberHigherOrLower</node>
+            <node x="" y="">TheSkylineProblem</node>
+            <node x="" y="">PeekingIterator</node>
+            <node x="" y="">AdditiveNumber</node>
+            <node x="" y="">LongestIncreasingPathInAMatrix</node>
+            <node x="" y="">PerfectRectangle</node>
+            <node x="" y="">SymmetricTree</node>
+            <node x="" y="">AddTwoNumbers</node>
+            <node x="" y="">ThreeSumClosest</node>
+            <node x="" y="">groovyjarjarantlr</node>
+            <node x="" y="">DecodeString</node>
+            <node x="" y="">FrogJump</node>
+            <node x="" y="">FindTheDuplicateNumber</node>
+            <node x="" y="">BestTimeToBuyAndSellStock</node>
+            <node x="" y="">LongestCommonPrefix</node>
+            <node x="" y="">IntersectionOfTwoLinkedLists</node>
+            <node x="" y="">SerializeAndDeserializeBST</node>
+            <node x="" y="">PatchingArray</node>
+            <node x="" y="">CountAndSay</node>
+            <node x="" y="">AddAndSearchWordDataStructurDesign</node>
+            <node x="" y="">GrayCode</node>
+            <node x="" y="">NthDigit</node>
+            <node x="" y="">CountOfRangeSum</node>
+            <node x="" y="">MaximumSubarray</node>
+            <node x="" y="">RomanToInteger</node>
+            <node x="" y="">WiggleSortII</node>
+            <node x="" y="">UniquePaths</node>
+            <node x="" y="">Permutations</node>
+            <node x="" y="">PowerOfThree</node>
+            <node x="" y="">MaximumProductOfWordLengths</node>
+            <node x="" y="">Sqrt</node>
+            <node x="" y="">UniqueBinarySearchTreesII</node>
+            <node x="" y="">BulbSwitcher</node>
+            <node x="" y="">HouseRobber</node>
+            <node x="" y="">LinkedListCycleII</node>
+            <node x="" y="">IntersectionOfTwoArrays</node>
+            <node x="" y="">LargestRectangleinHistogram</node>
+            <node x="" y="">RansomNote</node>
+            <node x="" y="">BinarySearchTreeIterator</node>
+            <node x="" y="">NumberOfIslands</node>
+            <node x="" y="">NumberOf1Bits</node>
+            <node x="" y="">CanIWin</node>
+            <node x="" y="">BinaryTreeRightSideView</node>
+            <node x="" y="">com</node>
+            <node x="" y="">AddDigits</node>
+            <node x="" y="">QueueReconstructionByHeight</node>
+            <node x="" y="">IntegerBreak</node>
+            <node x="" y="">ScrambleString</node>
+            <node x="" y="">MaxSumOfRectangleNoLargerThanK</node>
+            <node x="" y="">PalindromePairs</node>
+            <node x="" y="">KthSmallestInLexicographicalOrder</node>
+            <node x="" y="">SlidingWindowMaximum</node>
+            <node x="" y="">RandomPickIndex</node>
+            <node x="" y="">InsertDeleteGetRandomDuplicatesAllowed</node>
+            <node x="" y="">ConstructBinaryTreeFromPreorderAndInorderTraversal</node>
+            <node x="" y="">MaximumXOROfTwoNumbersInAnArray</node>
+            <node x="" y="">Subsets</node>
+            <node x="" y="">SpiralMatrix</node>
+            <node x="" y="">SingleNumberIII</node>
+            <node x="" y="">SortList</node>
+            <node x="" y="">Candy</node>
+            <node x="" y="">InsertInterval</node>
+            <node x="" y="">MoveZero</node>
+            <node x="" y="">LongestAbsoluteFilePath</node>
+            <node x="" y="">BestTimeToBuyAndSellStockWithCooldown</node>
+            <node x="" y="">ConstructBinaryTreeFromInorderAndPostorderTraversal</node>
+            <node x="" y="">MinimumWindowSubstring</node>
+            <node x="" y="">ValidAnagram</node>
+            <node x="" y="">SumRootToLeafNumbers</node>
+            <node x="" y="">LinkedListRandomNode</node>
+            <node x="" y="">BinaryTreeMaximumPathSum</node>
+            <node x="" y="">BestTimeToBuyAndSellStockIV</node>
+            <node x="" y="">CountingBits</node>
+            <node x="" y="">LongestPalindromicSubstring</node>
+            <node x="" y="">AssignCookies</node>
+            <node x="" y="">SameTree</node>
+            <node x="" y="">UglyNumberII</node>
+            <node x="" y="">BestTimeToBuyAndSellStockIII</node>
+            <node x="" y="">DistinctSubsequences</node>
+            <node x="" y="">SuperUglyNumber</node>
+            <node x="" y="">NQueensII</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">GroupAnagrams</node>
+            <node x="" y="">SplitArrayLargestSum</node>
+            <node x="" y="">BestTimeToBuyAndSellStockII</node>
+            <node x="" y="">LetterCombinationsOfAPhoneNumber</node>
+            <node x="" y="">WildcardMatching</node>
+            <node x="" y="">GuessNumberHigherOrLowerII</node>
+            <node x="" y="">PathSum</node>
+            <node x="" y="">LongestIncreasingSubsequence</node>
+            <node x="" y="">CourseSchedule</node>
+            <node x="" y="">FizzBuzz</node>
+            <node x="" y="">KthSmallestElementInABST</node>
+            <node x="" y="">PalindromePartitioningII</node>
+            <node x="" y="">BasicCalculatorII</node>
+            <node x="" y="">PopulatingNextRightPointersInEachNode</node>
+            <node x="" y="">HouseRobberIII</node>
+            <node x="" y="">AddTwoNumbersII</node>
+            <node x="" y="">ShortestPalindrome</node>
+            <node x="" y="">WordLadder</node>
+            <node x="" y="">ConvertSortedArrayToBinarySearchTree</node>
+            <node x="" y="">MergeTwoSortedLists</node>
+            <node x="" y="">BinaryWatch</node>
+            <node x="" y="">PacificAtlanticWaterFlow</node>
+            <node x="" y="">LowestCommonAncestor</node>
+            <node x="" y="">MultiplyStrings</node>
+            <node x="" y="">GenerateParentheses</node>
+            <node x="" y="">MinimumNumberOfArrowsToBurstBalloons</node>
+            <node x="" y="">IncreasingTripletSubsequence</node>
+            <node x="" y="">MergeIntervals</node>
+            <node x="" y="">JumpGame</node>
+            <node x="" y="">IntersectionOfTwoArraysII</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0580346355215464" x="1150.5000000000002" y="400.1185718092193" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConstructBinaryTreeFromInorderAndPostorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConstructBinaryTreeFromPreorderAndInorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/9bb996a7-1e78-4004-8128-cba1519e6752/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PathSumII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding>
+            <element signature="e#239#254#0" expanded="true" />
+            <element signature="e#324#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConvertSortedListToBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlattenBinaryTreeToLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
