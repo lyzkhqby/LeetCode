@@ -17,7 +17,7 @@ public class PopulatingNextRightPointersInEachNodeII {
             p.next = q.right;
             if(q.left != null) p.next = q.left;
         }
-        connect(root.right);//{2,1,3,0,7,9,1,2,#,1,0,#,#,8,8,#,#,#,#,7}先写right的原因
+        connect(root.right);//{2,1,3,0,7,9,1,2,#,1,0,#,#,8,8,#,#,#,#,7}先写right的原因（层次遍历）
         connect(root.left);
     }
 
