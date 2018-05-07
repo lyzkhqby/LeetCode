@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Stack;
 
 /**
  * Created by rotoosoft-d04 on 2016/4/25.
@@ -34,5 +35,29 @@ public class BinaryTreePreorderTraversal {
         TreeNode left;
         TreeNode right;
         TreeNode(int x) { val = x; }
+    }
+
+
+    public List<Integer> preorderTraversalNonRecursion(TreeNode root) {
+        Stack<TreeNode> stack = new Stack<TreeNode>();
+        List<Integer> preorder = new ArrayList<Integer>();
+
+        if (root == null) {
+            return preorder;
+        }
+
+        stack.push(root);
+        while (!stack.empty()) {
+            TreeNode node = stack.pop();
+            preorder.add(node.val);
+            if (node.right != null) {
+                stack.push(node.right);
+            }
+            if (node.left != null) {
+                stack.push(node.left);
+            }
+        }
+
+        return preorder;
     }
 }
