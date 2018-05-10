@@ -3,9 +3,12 @@
  */
 public class BitwiseANDOfNumbersRange {
     public int rangeBitwiseAnd(int m, int n) {
-        while (n > m) {
-            n = n & n - 1;
+        if (n == m) {
+            return n;
         }
-        return n;
+        if (n - m == 1) {
+            return n & m;
+        }
+        return rangeBitwiseAnd(m / 2, n / 2) << 1;
     }
 }
