@@ -7,7 +7,7 @@ public class SingleNumberIII {
         for (int num : nums) {
             diff ^= num;
         }
-        diff &= -diff;
+        diff &= -diff; //找出第一个为1的位置（java的int为补码）
 
         int[] res = {0, 0};
         for (int num : nums) {
