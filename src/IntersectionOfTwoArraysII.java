@@ -17,7 +17,6 @@ public class IntersectionOfTwoArraysII {
         while(i < len1 && j < len2) {
             if(nums1[i] == nums2[j]) {
                 res.add(nums1[i]);
-                index++;
                 i++;
                 j++;
             }else if(nums1[i] < nums2[j]) {
