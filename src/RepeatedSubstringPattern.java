@@ -35,10 +35,9 @@ public class RepeatedSubstringPattern {
     }
 
     public static void main(String[] args) {
-        String test = "abababbabababb";
-        System.out.println(repeatedSubstringPattern(test));
+        String test = "abaababaab";
+        repeatedSubstringPattern(test);
     }
 }
 
-//测试用例[a, b, a, b, a, b, b, a, b, a, b, a, b, b] 
-//参考kmp算法
+//测试用例[a, b, a, b, a, b, b, a, b, a, b, a, b, b]

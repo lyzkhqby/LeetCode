@@ -16,7 +16,7 @@ public class IntersectionOfTwoArrays {
         int index = 0;
         while(i < len1 && j < len2) {
             if(nums1[i] == nums2[j]) {
-                if(index == 0 || res.get(index -1) != nums1[i]) {
+                if(index == 0 || res.get(index - 1) != nums1[i]) {
                     res.add(nums1[i]);
                     index++;
                 }

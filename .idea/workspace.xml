@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MajorityElementII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SummaryRanges.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PascalsTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntersectionOfTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntersectionOfTwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RepeatedSubstringPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RepeatedSubstringPattern.java" afterDir="false" />
     </list>
     <ignored path="LeetCode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,102 +39,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="KthLargestElementInAnArray.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KthLargestElementInAnArray.java">
+      <file leaf-file-name="IntersectionOfTwoArraysII.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IntersectionOfTwoArraysII.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+            <state relative-caret-position="75">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CombinationSumII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CombinationSumII.java">
+      <file leaf-file-name="IntersectionOfTwoArrays.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/IntersectionOfTwoArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CombinationSumIII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CombinationSumIII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CountCompleteTreeNodes.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CountCompleteTreeNodes.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaximalSquare.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MaximalSquare.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="40" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BasicCalculatorII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BasicCalculatorII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SummaryRanges.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SummaryRanges.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MajorityElementII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MajorityElementII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="KthSmallestElementInABST.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/KthSmallestElementInABST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LowestCommonAncestorOfABinaryTree.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LowestCommonAncestorOfABinaryTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <state relative-caret-position="465">
+              <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -162,9 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FindAllDuplicatesInAnArray.java" />
-        <option value="$PROJECT_DIR$/src/JumpGame.java" />
-        <option value="$PROJECT_DIR$/src/ArrayNesting.java" />
         <option value="$PROJECT_DIR$/src/MaximumLengthOfRepeatedSubarray.java" />
         <option value="$PROJECT_DIR$/src/TaskScheduler.java" />
         <option value="$PROJECT_DIR$/src/TwoSum.java" />
@@ -213,6 +129,9 @@
         <option value="$PROJECT_DIR$/src/CombinationSumIII.java" />
         <option value="$PROJECT_DIR$/src/SummaryRanges.java" />
         <option value="$PROJECT_DIR$/src/MajorityElementII.java" />
+        <option value="$PROJECT_DIR$/src/MergeIntervals.java" />
+        <option value="$PROJECT_DIR$/src/PascalsTriangle.java" />
+        <option value="$PROJECT_DIR$/src/IntersectionOfTwoArrays.java" />
       </list>
     </option>
   </component>
@@ -226,10 +145,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="2" />
-    <option name="width" value="1932" />
-    <option name="height" value="1056" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="811" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -240,7 +158,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -268,13 +185,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mybatis-3-master/mybatis-3-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -299,7 +217,9 @@
   </component>
   <component name="RunManager" selected="Application.HouseRobberII">
     <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
     </configuration>
     <configuration name="HouseRobberII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HouseRobberII" />
@@ -483,6 +403,10 @@
       <workItem from="1525841063539" duration="7153000" />
       <workItem from="1525923384686" duration="14191000" />
       <workItem from="1526262847913" duration="6312000" />
+      <workItem from="1526535631952" duration="2612000" />
+      <workItem from="1527043583865" duration="113000" />
+      <workItem from="1527044325923" duration="21000" />
+      <workItem from="1527044380977" duration="7848000" />
     </task>
     <task id="LOCAL-00209" summary="new&#10;">
       <created>1480143256899</created>
@@ -831,10 +755,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="167606000" />
+    <option name="totallyTimeSpent" value="178200000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="811" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -845,28 +769,28 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5025" side_tool="true" weight="0.27937338" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.23044397" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4975" weight="0.2780127" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.30354795" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23400854" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2611111" />
       <window_info anchor="right" id="Database" order="5" weight="0.3296875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="top" x="776" y="127" width="931" height="503" id="Debug" internal_type="FLOATING" order="0" type="FLOATING" weight="0.5147992" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="top" x="776" y="127" width="931" height="503" id="Debug" order="0" type="FLOATING" weight="0.5147992" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.32769555" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32936078" />
       <window_info id="Nl-Palette" order="2" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="Properties" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32936078" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1049,466 +973,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/UniqueBinarySearchTreesII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ValidateBinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTreeZigzagLevelOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="576">
-          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/PathSumII">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>PathSumII</OriginalElement>
-          <nodes>
-            <node x="" y="">PathSumII</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="53.0" y="16.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement />
-          <nodes>
-            <node x="" y="">CountTheRepetitions</node>
-            <node x="" y="">RemoveNthNodeFromEndOfList</node>
-            <node x="" y="">ValidPalindrome</node>
-            <node x="" y="">LexicographicalNumbers</node>
-            <node x="" y="">LongestPalindrome</node>
-            <node x="" y="">BasicCalculator</node>
-            <node x="" y="">ValidateBinarySearchTree</node>
-            <node x="" y="">FractionToRecurringDecimal</node>
-            <node x="" y="">RussianDollEnvelopes</node>
-            <node x="" y="">TaskScheduler</node>
-            <node x="" y="">PartitionList</node>
-            <node x="" y="">SearchA2DMatrix</node>
-            <node x="" y="">SubstringWithConcatenationOfAllWords</node>
-            <node x="" y="">CloneGraph</node>
-            <node x="" y="">MaximumGap</node>
-            <node x="" y="">java</node>
-            <node x="" y="">ReverseInteger</node>
-            <node x="" y="">ReconstructItinerary</node>
-            <node x="" y="">RemoveInvalidParentheses</node>
-            <node x="" y="">IntegerToEnglishWords</node>
-            <node x="" y="">DifferentWaysToAddParentheses</node>
-            <node x="" y="">javafx</node>
-            <node x="" y="">ReverseNodesInKGroup</node>
-            <node x="" y="">FindAllDuplicatesInAnArray</node>
-            <node x="" y="">MiniParser</node>
-            <node x="" y="">MinimumDepthOfBinaryTree</node>
-            <node x="" y="">ExcelSheetColumnTitle</node>
-            <node x="" y="">UniqueSubstringsInWraparoundString</node>
-            <node x="" y="">PartitionEqualSubsetSum</node>
-            <node x="" y="">NumberOfSegmentsInAString</node>
-            <node x="" y="">FourSum</node>
-            <node x="" y="">BinaryTreeLevelOrderTraversalII</node>
-            <node x="" y="">IsomorphicStrings</node>
-            <node x="" y="">LinkedListCycle</node>
-            <node x="" y="">RemoveLinkedListElements</node>
-            <node x="" y="">ValidPerfectSquare</node>
-            <node x="" y="">RemoveDuplicatesFromSortedArrayII</node>
-            <node x="" y="">WaterAndJugProblem</node>
-            <node x="" y="">META-INF</node>
-            <node x="" y="">ImplementStrStr</node>
-            <node x="" y="">groovy</node>
-            <node x="" y="">ExcelSheetColumnNumber</node>
-            <node x="" y="">ImplementStackUsingQueues</node>
-            <node x="" y="">InvertBinaryTree</node>
-            <node x="" y="">SearchInsertPosition</node>
-            <node x="" y="">LongestSubstringWithoutRepeatingCharacters</node>
-            <node x="" y="">KthLargestElementInAnArray</node>
-            <node x="" y="">InterleavingString</node>
-            <node x="" y="">Pow</node>
-            <node x="" y="">AddBinary</node>
-            <node x="" y="">netscape</node>
-            <node x="" y="">ImplementTrie</node>
-            <node x="" y="">RecoverBinarySearchTree</node>
-            <node x="" y="">PalindromePartitioning</node>
-            <node x="" y="">PalindromeNumber</node>
-            <node x="" y="">LongestValidParentheses</node>
-            <node x="" y="">BinaryTreePostorderTraversal</node>
-            <node x="" y="">LengthOfLastWord</node>
-            <node x="" y="">ArrangingCoins</node>
-            <node x="" y="">LongestRepeatingCharacterReplacement</node>
-            <node x="" y="">ShuffleAnArray</node>
-            <node x="" y="">sun</node>
-            <node x="" y="">HouseRobberII</node>
-            <node x="" y="">ArithmeticSlices</node>
-            <node x="" y="">RegularExpressionMatching</node>
-            <node x="" y="">ReverseString</node>
-            <node x="" y="">OneThreeTwoPattern</node>
-            <node x="" y="">SelfCrossing</node>
-            <node x="" y="">TrappingRainWater</node>
-            <node x="" y="">DecodeWays</node>
-            <node x="" y="">DeleteNodeInABST</node>
-            <node x="" y="">PalindromeLinkedList</node>
-            <node x="" y="">PermutationSequence</node>
-            <node x="" y="">MaximalRectangle</node>
-            <node x="" y="">EditDistance</node>
-            <node x="" y="">ArithmeticSlicesIISubsequence</node>
-            <node x="" y="">FindAllAnagramsInAString</node>
-            <node x="" y="">ThreeSum</node>
-            <node x="" y="">FlattenNestedListIterator</node>
-            <node x="" y="">FindMedianFromDataStream</node>
-            <node x="" y="">PermutationsII</node>
-            <node x="" y="">FindTheDifference</node>
-            <node x="" y="">FactorialTrailingZeroes</node>
-            <node x="" y="">MinimumMovesToEqualArrayElementsII</node>
-            <node x="" y="">ValidParentheses</node>
-            <node x="" y="">BattleshipsInABoard</node>
-            <node x="" y="">ThirdMaximumNumber</node>
-            <node x="" y="">TwoSum</node>
-            <node x="" y="">SudokuSolver</node>
-            <node x="" y="">CountCompleteTreeNodes</node>
-            <node x="" y="">UniqueBinarySearchTrees</node>
-            <node x="" y="">ReverseLinkedList</node>
-            <node x="" y="">CountNumbersWithUniqueDigits</node>
-            <node x="" y="">HIndexII</node>
-            <node x="" y="">TopKFrequentElements</node>
-            <node x="" y="">DungeonGame</node>
-            <node x="" y="">RectangleArea</node>
-            <node x="" y="">WordLadderII</node>
-            <node x="" y="">CreateMaximumNumber</node>
-            <node x="" y="">InsertDeleteGetRandom</node>
-            <node x="" y="">jdk</node>
-            <node x="" y="">NimGame</node>
-            <node x="" y="">MinimumMovesToEqualArrayElements</node>
-            <node x="" y="">ExpressionAddOperators</node>
-            <node x="" y="">BinaryTreeInorderTraversal</node>
-            <node x="" y="">WordBreakII</node>
-            <node x="" y="">IntegerReplacement</node>
-            <node x="" y="">SortColors</node>
-            <node x="" y="">ConvertSortedListToBinarySearchTree</node>
-            <node x="" y="">SumOfTwoIntegers</node>
-            <node x="" y="">NextPermutation</node>
-            <node x="" y="">RemoveElement</node>
-            <node x="" y="">OddEvenLinkedList</node>
-            <node x="" y="">FirstBadVersion</node>
-            <node x="" y="">WiggleSubsequence</node>
-            <node x="" y="">CourseScheduleII</node>
-            <node x="" y="">HIndex</node>
-            <node x="" y="">CompareVersionNumbers</node>
-            <node x="" y="">IntegerToRoman</node>
-            <node x="" y="">ValidSudoku</node>
-            <node x="" y="">RepeatedSubstringPattern</node>
-            <node x="" y="">PerfectSquares</node>
-            <node x="" y="">TrappingRainWaterII</node>
-            <node x="" y="">ClimbingStairs</node>
-            <node x="" y="">EliminationGame</node>
-            <node x="" y="">AllOoneDataStructure</node>
-            <node x="" y="">NQueens</node>
-            <node x="" y="">ConvertANumberToHexadecimal</node>
-            <node x="" y="">RemoveDuplicateLetters</node>
-            <node x="" y="">LargestDivisibleSubset</node>
-            <node x="" y="">UglyNumber</node>
-            <node x="" y="">groovyjarjarasm</node>
-            <node x="" y="">MinimumHeightTrees</node>
-            <node x="" y="">javax</node>
-            <node x="" y="">ReverseWordsInAString</node>
-            <node x="" y="">CopyListWithRandomPointer</node>
-            <node x="" y="">RemoveDuplicatesFromSortedList</node>
-            <node x="" y="">UTF8Validation</node>
-            <node x="" y="">PeekingIteratorII</node>
-            <node x="" y="">SwapNodesInPairs</node>
-            <node x="" y="">oracle</node>
-            <node x="" y="">GasStation</node>
-            <node x="" y="">AddStrings</node>
-            <node x="" y="">RotateList</node>
-            <node x="" y="">PlusOne</node>
-            <node x="" y="">CoinChange</node>
-            <node x="" y="">PopulatingNextRightPointersInEachNodeII</node>
-            <node x="" y="">FindAllNumbersDisappearedInAnArray</node>
-            <node x="" y="">CountPrimes</node>
-            <node x="" y="">MaximumLengthOfRepeatedSubarray</node>
-            <node x="" y="">CombinationSum</node>
-            <node x="" y="">ReconstructOriginalDigitsFromEnglish</node>
-            <node x="" y="">VerifyPreorderSerializationOfABinaryTree</node>
-            <node x="" y="">LRUCache</node>
-            <node x="" y="">IslandPerimeter</node>
-            <node x="" y="">ReverseLinkedListII</node>
-            <node x="" y="">GameOfLife</node>
-            <node x="" y="">CombinationSumII</node>
-            <node x="" y="">StringToInteger</node>
-            <node x="" y="">FlattenBinaryTreeToLinkedList</node>
-            <node x="" y="">ZigZagConversion</node>
-            <node x="" y="">BinaryTreeZigzagLevelOrderTraversal</node>
-            <node x="" y="">MedianOfTwoSortedArrays</node>
-            <node x="" y="">HammingDistance</node>
-            <node x="" y="">CombinationSumIV</node>
-            <node x="" y="">ReverseVowelsOfAString</node>
-            <node x="" y="">TwoSumII</node>
-            <node x="" y="">NonOverlappingIntervals</node>
-            <node x="" y="">RangeSumQueryImmutable</node>
-            <node x="" y="">ValidNumber</node>
-            <node x="" y="">ImplementQueueUsingStacks</node>
-            <node x="" y="">TextJustification</node>
-            <node x="" y="">BurstBalloons</node>
-            <node x="" y="">MinStack</node>
-            <node x="" y="">IsSubsequence</node>
-            <node x="" y="">SurroundedRegions</node>
-            <node x="" y="">SingleNumberII</node>
-            <node x="" y="">WordSearchII</node>
-            <node x="" y="">CountOfSmallerNumbersAfterSelf</node>
-            <node x="" y="">SingleNumber</node>
-            <node x="" y="">RemoveDuplicatesFromSortedListII</node>
-            <node x="" y="">SuperPow</node>
-            <node x="" y="">BullsAndCows</node>
-            <node x="" y="">BinaryTreeLevelOrder</node>
-            <node x="" y="">BitwiseANDOfNumbersRange</node>
-            <node x="" y="">org</node>
-            <node x="" y="">BalancedBinaryTree</node>
-            <node x="" y="">FourSumII</node>
-            <node x="" y="">ReverseBits</node>
-            <node x="" y="">RangeSumQuery2DImmutable</node>
-            <node x="" y="">PowerOfFour</node>
-            <node x="" y="">BinaryTreePreorderTraversal</node>
-            <node x="" y="">RepeatedDNASequences</node>
-            <node x="" y="">StrongPasswordChecker</node>
-            <node x="" y="">RemoveKDigits</node>
-            <node x="" y="">FirstUniqueCharacterInAString</node>
-            <node x="" y="">InsertionSortList</node>
-            <node x="" y="">LargestNumber</node>
-            <node x="" y="">LowestCommonAncestorOfABinaryTree</node>
-            <node x="" y="">DataStreamAsDisjointIntervals</node>
-            <node x="" y="">ReorderList</node>
-            <node x="" y="">FindKPairsWithSmallestSums</node>
-            <node x="" y="">MaximumDepthOfBinaryTree</node>
-            <node x="" y="">EvaluateDivision</node>
-            <node x="" y="">NumberOfBoomerangs</node>
-            <node x="" y="">BinaryTreePaths</node>
-            <node x="" y="">RemoveDuplicatesFromSortedArray</node>
-            <node x="" y="">MaxPointsOnALine</node>
-            <node x="" y="">ValidateIPAddress</node>
-            <node x="" y="">RotateFunction</node>
-            <node x="" y="">HappyNumber</node>
-            <node x="" y="">SumOfLeftLeaves</node>
-            <node x="" y="">RestoreIPAddresses</node>
-            <node x="" y="">SimplifyPath</node>
-            <node x="" y="">MergeKSortedLists</node>
-            <node x="" y="">DivideTwoIntegers</node>
-            <node x="" y="">EvaluateReversePolishNotation</node>
-            <node x="" y="">SerializeAndDeserializeBinaryTree</node>
-            <node x="" y="">NumberOfDigitOne</node>
-            <node x="" y="">WordBreak</node>
-            <node x="" y="">FindRightInterval</node>
-            <node x="" y="">PathSumIII</node>
-            <node x="" y="">DesignTwitter</node>
-            <node x="" y="">WordPattern</node>
-            <node x="" y="">RangeSumQueryMutable</node>
-            <node x="" y="">ArrayNesting</node>
-            <node x="" y="">KthSmallestElementInASortedMatrix</node>
-            <node x="" y="">PathSumII</node>
-            <node x="" y="">DeleteNodeInALinkedList</node>
-            <node x="" y="">PowerOfTwo</node>
-            <node x="" y="">ContainerWithMostWater</node>
-            <node x="" y="">MaximalSquare</node>
-            <node x="" y="">LongestSubstringWithAtLeastKRepeatingCharacters</node>
-            <node x="" y="">Combinations</node>
-            <node x="" y="">GuessNumberHigherOrLower</node>
-            <node x="" y="">TheSkylineProblem</node>
-            <node x="" y="">PeekingIterator</node>
-            <node x="" y="">AdditiveNumber</node>
-            <node x="" y="">LongestIncreasingPathInAMatrix</node>
-            <node x="" y="">PerfectRectangle</node>
-            <node x="" y="">SymmetricTree</node>
-            <node x="" y="">AddTwoNumbers</node>
-            <node x="" y="">ThreeSumClosest</node>
-            <node x="" y="">groovyjarjarantlr</node>
-            <node x="" y="">DecodeString</node>
-            <node x="" y="">FrogJump</node>
-            <node x="" y="">FindTheDuplicateNumber</node>
-            <node x="" y="">BestTimeToBuyAndSellStock</node>
-            <node x="" y="">LongestCommonPrefix</node>
-            <node x="" y="">IntersectionOfTwoLinkedLists</node>
-            <node x="" y="">SerializeAndDeserializeBST</node>
-            <node x="" y="">PatchingArray</node>
-            <node x="" y="">CountAndSay</node>
-            <node x="" y="">AddAndSearchWordDataStructurDesign</node>
-            <node x="" y="">GrayCode</node>
-            <node x="" y="">NthDigit</node>
-            <node x="" y="">CountOfRangeSum</node>
-            <node x="" y="">MaximumSubarray</node>
-            <node x="" y="">RomanToInteger</node>
-            <node x="" y="">WiggleSortII</node>
-            <node x="" y="">UniquePaths</node>
-            <node x="" y="">Permutations</node>
-            <node x="" y="">PowerOfThree</node>
-            <node x="" y="">MaximumProductOfWordLengths</node>
-            <node x="" y="">Sqrt</node>
-            <node x="" y="">UniqueBinarySearchTreesII</node>
-            <node x="" y="">BulbSwitcher</node>
-            <node x="" y="">HouseRobber</node>
-            <node x="" y="">LinkedListCycleII</node>
-            <node x="" y="">IntersectionOfTwoArrays</node>
-            <node x="" y="">LargestRectangleinHistogram</node>
-            <node x="" y="">RansomNote</node>
-            <node x="" y="">BinarySearchTreeIterator</node>
-            <node x="" y="">NumberOfIslands</node>
-            <node x="" y="">NumberOf1Bits</node>
-            <node x="" y="">CanIWin</node>
-            <node x="" y="">BinaryTreeRightSideView</node>
-            <node x="" y="">com</node>
-            <node x="" y="">AddDigits</node>
-            <node x="" y="">QueueReconstructionByHeight</node>
-            <node x="" y="">IntegerBreak</node>
-            <node x="" y="">ScrambleString</node>
-            <node x="" y="">MaxSumOfRectangleNoLargerThanK</node>
-            <node x="" y="">PalindromePairs</node>
-            <node x="" y="">KthSmallestInLexicographicalOrder</node>
-            <node x="" y="">SlidingWindowMaximum</node>
-            <node x="" y="">RandomPickIndex</node>
-            <node x="" y="">InsertDeleteGetRandomDuplicatesAllowed</node>
-            <node x="" y="">ConstructBinaryTreeFromPreorderAndInorderTraversal</node>
-            <node x="" y="">MaximumXOROfTwoNumbersInAnArray</node>
-            <node x="" y="">Subsets</node>
-            <node x="" y="">SpiralMatrix</node>
-            <node x="" y="">SingleNumberIII</node>
-            <node x="" y="">SortList</node>
-            <node x="" y="">Candy</node>
-            <node x="" y="">InsertInterval</node>
-            <node x="" y="">MoveZero</node>
-            <node x="" y="">LongestAbsoluteFilePath</node>
-            <node x="" y="">BestTimeToBuyAndSellStockWithCooldown</node>
-            <node x="" y="">ConstructBinaryTreeFromInorderAndPostorderTraversal</node>
-            <node x="" y="">MinimumWindowSubstring</node>
-            <node x="" y="">ValidAnagram</node>
-            <node x="" y="">SumRootToLeafNumbers</node>
-            <node x="" y="">LinkedListRandomNode</node>
-            <node x="" y="">BinaryTreeMaximumPathSum</node>
-            <node x="" y="">BestTimeToBuyAndSellStockIV</node>
-            <node x="" y="">CountingBits</node>
-            <node x="" y="">LongestPalindromicSubstring</node>
-            <node x="" y="">AssignCookies</node>
-            <node x="" y="">SameTree</node>
-            <node x="" y="">UglyNumberII</node>
-            <node x="" y="">BestTimeToBuyAndSellStockIII</node>
-            <node x="" y="">DistinctSubsequences</node>
-            <node x="" y="">SuperUglyNumber</node>
-            <node x="" y="">NQueensII</node>
-            <node x="" y="">groovyjarjarcommonscli</node>
-            <node x="" y="">GroupAnagrams</node>
-            <node x="" y="">SplitArrayLargestSum</node>
-            <node x="" y="">BestTimeToBuyAndSellStockII</node>
-            <node x="" y="">LetterCombinationsOfAPhoneNumber</node>
-            <node x="" y="">WildcardMatching</node>
-            <node x="" y="">GuessNumberHigherOrLowerII</node>
-            <node x="" y="">PathSum</node>
-            <node x="" y="">LongestIncreasingSubsequence</node>
-            <node x="" y="">CourseSchedule</node>
-            <node x="" y="">FizzBuzz</node>
-            <node x="" y="">KthSmallestElementInABST</node>
-            <node x="" y="">PalindromePartitioningII</node>
-            <node x="" y="">BasicCalculatorII</node>
-            <node x="" y="">PopulatingNextRightPointersInEachNode</node>
-            <node x="" y="">HouseRobberIII</node>
-            <node x="" y="">AddTwoNumbersII</node>
-            <node x="" y="">ShortestPalindrome</node>
-            <node x="" y="">WordLadder</node>
-            <node x="" y="">ConvertSortedArrayToBinarySearchTree</node>
-            <node x="" y="">MergeTwoSortedLists</node>
-            <node x="" y="">BinaryWatch</node>
-            <node x="" y="">PacificAtlanticWaterFlow</node>
-            <node x="" y="">LowestCommonAncestor</node>
-            <node x="" y="">MultiplyStrings</node>
-            <node x="" y="">GenerateParentheses</node>
-            <node x="" y="">MinimumNumberOfArrowsToBurstBalloons</node>
-            <node x="" y="">IncreasingTripletSubsequence</node>
-            <node x="" y="">MergeIntervals</node>
-            <node x="" y="">JumpGame</node>
-            <node x="" y="">IntersectionOfTwoArraysII</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0580346355215464" x="1151.0" y="400.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConstructBinaryTreeFromInorderAndPostorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConstructBinaryTreeFromPreorderAndInorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="45" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PathSumII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConvertSortedListToBinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FlattenBinaryTreeToLinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PopulatingNextRightPointersInEachNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PopulatingNextRightPointersInEachNodeII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="86" selection-start-line="19" selection-start-column="86" selection-end-line="19" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SumRootToLeafNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SurroundedRegions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1707,81 +1171,340 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KthLargestElementInAnArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
+        <state relative-caret-position="765">
           <caret line="51" column="5" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CombinationSumII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
+        <state relative-caret-position="30">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CombinationSumIII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="225">
           <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CountCompleteTreeNodes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
+        <state relative-caret-position="285">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MaximalSquare.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BasicCalculatorII.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SummaryRanges.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="180">
           <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MajorityElementII.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
+        <state relative-caret-position="690">
           <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/KthSmallestElementInABST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="330">
           <caret line="23" column="19" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LowestCommonAncestorOfABinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="180">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicCalculatorII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesFromSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Permutations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ValidSudoku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="46" lean-forward="true" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11869">
+          <caret line="128" column="17" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="284" column="55" lean-forward="true" selection-start-line="284" selection-start-column="55" selection-end-line="284" selection-end-column="55" />
+          <folding>
+            <element signature="docComment;class#HashMap#0" />
+            <element signature="e#10630#10703#0" />
+            <element signature="e#10775#10955#0" />
+            <element signature="e#11010#11085#0" />
+            <element signature="e#11143#11508#0" />
+            <element signature="e#11558#11773#0" />
+            <element signature="e#11825#12093#0" />
+            <element signature="e#12147#12297#0" />
+            <element signature="e#12636#12682#0" />
+            <element signature="e#12691#12739#0" />
+            <element signature="e#12748#12808#0" />
+            <element signature="e#12935#13073#0" />
+            <element signature="e#13083#13469#0" />
+            <element signature="e#13541#14494#0" />
+            <element signature="e#13541#14625#0" />
+            <element signature="e#14631#14742#0" />
+            <element signature="e#14631#15535#0" />
+            <element signature="e#15541#15646#0" />
+            <element signature="e#15541#15896#0" />
+            <element signature="e#15902#15979#0" />
+            <element signature="e#15902#16247#0" />
+            <element signature="e#16303#16568#0" />
+            <element signature="e#16607#16722#0" />
+            <element signature="e#16772#16846#0" />
+            <element signature="e#16876#17254#0" />
+            <element signature="e#17288#17393#0" />
+            <element signature="e#17647#17723#0" />
+            <element signature="e#17818#18164#0" />
+            <element signature="e#17818#18785#0" />
+            <element signature="e#18791#19062#0" />
+            <element signature="e#19168#19305#0" />
+            <element signature="e#19417#19839#0" />
+            <element signature="e#19417#19979#0" />
+            <element signature="e#19985#20197#0" />
+            <element signature="e#19985#20939#0" />
+            <element signature="e#20945#21084#0" />
+            <element signature="e#21141#21304#0" />
+            <element signature="e#21373#22174#0" />
+            <element signature="e#21373#22303#0" />
+            <element signature="e#22309#22472#0" />
+            <element signature="e#22309#23307#0" />
+            <element signature="e#23313#23584#0" />
+            <element signature="e#23689#24295#0" />
+            <element signature="e#24401#24732#0" />
+            <element signature="e#24401#26384#0" />
+            <element signature="e#26390#26755#0" />
+            <element signature="e#26390#29822#0" />
+            <element signature="e#29828#29968#0" />
+            <element signature="e#29828#30666#0" />
+            <element signature="e#30672#31000#0" />
+            <element signature="e#31102#31541#0" />
+            <element signature="e#31102#31707#0" />
+            <element signature="e#31713#32079#0" />
+            <element signature="e#31713#33733#0" />
+            <element signature="e#33739#33854#0" />
+            <element signature="e#33739#34092#0" />
+            <element signature="e#34098#34380#0" />
+            <element signature="e#34098#34844#0" />
+            <element signature="e#34850#35623#0" />
+            <element signature="e#34850#35797#0" />
+            <element signature="e#35803#36985#0" />
+            <element signature="e#35855#35911#0" />
+            <element signature="e#35920#35985#0" />
+            <element signature="e#35994#36063#0" />
+            <element signature="e#36072#36138#0" />
+            <element signature="e#36411#36979#0" />
+            <element signature="e#36991#37805#0" />
+            <element signature="e#36991#37993#0" />
+            <element signature="e#37999#39062#0" />
+            <element signature="e#38058#38114#0" />
+            <element signature="e#38123#38188#0" />
+            <element signature="e#38197#38268#0" />
+            <element signature="e#38277#38345#0" />
+            <element signature="e#38486#39056#0" />
+            <element signature="e#39068#39938#0" />
+            <element signature="e#39068#40095#0" />
+            <element signature="e#40101#41844#0" />
+            <element signature="e#40168#40224#0" />
+            <element signature="e#40233#40298#0" />
+            <element signature="e#40416#40748#0" />
+            <element signature="e#40757#41107#0" />
+            <element signature="e#41116#41252#0" />
+            <element signature="e#41261#41838#0" />
+            <element signature="e#41898#42069#0" />
+            <element signature="e#42342#42697#0" />
+            <element signature="e#42703#42986#0" />
+            <element signature="e#42992#44805#0" />
+            <element signature="e#44811#45484#0" />
+            <element signature="e#45490#47319#0" />
+            <element signature="e#47325#49315#0" />
+            <element signature="e#49321#49867#0" />
+            <element signature="e#49873#50470#0" />
+            <element signature="e#50581#50760#0" />
+            <element signature="e#50765#50795#0" />
+            <element signature="e#50765#50795#0" />
+            <element signature="e#50581#51193#0" />
+            <element signature="e#51199#51307#0" />
+            <element signature="e#51312#51468#0" />
+            <element signature="e#51474#51996#0" />
+            <element signature="e#51474#52313#0" />
+            <element signature="e#52319#52424#0" />
+            <element signature="e#52319#54612#0" />
+            <element signature="e#53184#53210#0" />
+            <element signature="e#53866#53930#0" />
+            <element signature="e#54707#56265#0" />
+            <element signature="e#54944#55264#0" />
+            <element signature="e#55359#55835#0" />
+            <element signature="e#55845#56259#0" />
+            <element signature="e#56271#56411#0" />
+            <element signature="e#56357#56405#0" />
+            <element signature="e#56417#56561#0" />
+            <element signature="e#56505#56555#0" />
+            <element signature="e#56567#56731#0" />
+            <element signature="e#56668#56725#0" />
+            <element signature="e#56829#58070#0" />
+            <element signature="e#57218#57545#0" />
+            <element signature="e#57555#57941#0" />
+            <element signature="e#57951#58064#0" />
+            <element signature="e#58076#60786#0" />
+            <element signature="e#58199#58378#0" />
+            <element signature="e#58388#58694#0" />
+            <element signature="e#58704#59761#0" />
+            <element signature="e#59771#60616#0" />
+            <element signature="e#60626#60780#0" />
+            <element signature="e#60792#63479#0" />
+            <element signature="e#60917#61100#0" />
+            <element signature="e#61110#61422#0" />
+            <element signature="e#61432#62491#0" />
+            <element signature="e#62501#63348#0" />
+            <element signature="e#63485#66246#0" />
+            <element signature="e#63623#63806#0" />
+            <element signature="e#63816#64128#0" />
+            <element signature="e#64138#65204#0" />
+            <element signature="e#65214#66076#0" />
+            <element signature="e#66086#66240#0" />
+            <element signature="e#67010#67170#0" />
+            <element signature="e#67176#67329#0" />
+            <element signature="e#67335#67418#0" />
+            <element signature="e#67335#67606#0" />
+            <element signature="e#67612#67702#0" />
+            <element signature="e#67707#67749#0" />
+            <element signature="e#67754#67792#0" />
+            <element signature="e#67798#68269#0" />
+            <element signature="e#68364#68536#0" />
+            <element signature="e#68364#91323#0" />
+            <element signature="e#68931#69000#0" />
+            <element signature="e#68931#69206#0" />
+            <element signature="e#69216#69300#0" />
+            <element signature="e#69216#70171#0" />
+            <element signature="e#70181#70370#0" />
+            <element signature="e#70181#71372#0" />
+            <element signature="e#71382#71434#0" />
+            <element signature="e#71585#71913#0" />
+            <element signature="e#71585#72274#0" />
+            <element signature="e#72284#72389#0" />
+            <element signature="e#72284#74024#0" />
+            <element signature="e#74034#74142#0" />
+            <element signature="e#74034#74547#0" />
+            <element signature="e#74557#74607#0" />
+            <element signature="e#74557#76523#0" />
+            <element signature="e#76533#77129#0" />
+            <element signature="e#76533#80648#0" />
+            <element signature="e#80658#81080#0" />
+            <element signature="e#80658#82775#0" />
+            <element signature="e#82917#83552#0" />
+            <element signature="e#83562#84200#0" />
+            <element signature="e#84210#86371#0" />
+            <element signature="e#86381#90331#0" />
+            <element signature="e#90341#90393#0" />
+            <element signature="e#90341#91317#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MergeIntervals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PascalsTriangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="19" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#185#200#0" expanded="true" />
+            <element signature="e#263#272#0" expanded="true" />
+            <element signature="e#459#468#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PalindromeLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RemoveElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntersectionOfTwoArraysII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntersectionOfTwoArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="33" column="39" lean-forward="true" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
         </state>
       </provider>
     </entry>
