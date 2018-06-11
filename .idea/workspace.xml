@@ -56,173 +56,42 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/HashMap.java">
+      <file leaf-file-name="ConvertANumberToHexadecimal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ConvertANumberToHexadecimal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="623" column="66" lean-forward="true" selection-start-line="623" selection-start-column="66" selection-end-line="623" selection-end-column="66" />
-              <folding>
-                <element signature="docComment;class#HashMap#0" expanded="false" />
-                <element signature="docComment;field#DEFAULT_INITIAL_CAPACITY#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;field#MAXIMUM_CAPACITY#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;field#DEFAULT_LOAD_FACTOR#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;field#TREEIFY_THRESHOLD#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;field#UNTREEIFY_THRESHOLD#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;field#MIN_TREEIFY_CAPACITY#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#hash#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#comparableClassFor#0;class#HashMap#0" expanded="false" />
-                <element signature="method#comparableClassFor#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#compareComparables#0;class#HashMap#0" expanded="false" />
-                <element signature="method#compareComparables#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#tableSizeFor#0;class#HashMap#0" expanded="false" />
-                <element signature="method#tableSizeFor#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;field#table#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;field#entrySet#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;field#size#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;field#modCount#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;field#threshold#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;field#loadFactor#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#HashMap#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#HashMap#1;class#HashMap#0" expanded="false" />
-                <element signature="e#19072#19073#0" expanded="true" />
-                <element signature="e#19130#19131#0" expanded="true" />
-                <element signature="docComment;method#HashMap#2;class#HashMap#0" expanded="false" />
-                <element signature="e#19296#19297#0" expanded="true" />
-                <element signature="e#19379#19380#0" expanded="true" />
-                <element signature="docComment;method#HashMap#3;class#HashMap#0" expanded="false" />
-                <element signature="method#putMapEntries#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#size#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#isEmpty#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#get#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#getNode#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#containsKey#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#put#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#putVal#0;class#HashMap#0" expanded="false" />
-                <element signature="method#putVal#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#resize#0;class#HashMap#0" expanded="false" />
-                <element signature="method#resize#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#treeifyBin#0;class#HashMap#0" expanded="false" />
-                <element signature="method#treeifyBin#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#putAll#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#remove#0;class#HashMap#0" expanded="false" />
-                <element signature="method#remove#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#removeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#removeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#clear#0;class#HashMap#0" expanded="false" />
-                <element signature="method#clear#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#containsValue#0;class#HashMap#0" expanded="false" />
-                <element signature="method#containsValue#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#keySet#0;class#HashMap#0" expanded="false" />
-                <element signature="method#keySet#0;class#HashMap#0" expanded="false" />
-                <element signature="class#KeySet#0;class#HashMap#0" expanded="false" />
-                <element signature="method#size#0;class#KeySet#0;class#HashMap#0" expanded="false" />
-                <element signature="method#clear#0;class#KeySet#0;class#HashMap#0" expanded="false" />
-                <element signature="method#iterator#0;class#KeySet#0;class#HashMap#0" expanded="false" />
-                <element signature="method#contains#0;class#KeySet#0;class#HashMap#0" expanded="false" />
-                <element signature="method#forEach#0;class#KeySet#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#values#0;class#HashMap#0" expanded="false" />
-                <element signature="method#values#0;class#HashMap#0" expanded="false" />
-                <element signature="class#Values#0;class#HashMap#0" expanded="false" />
-                <element signature="method#size#0;class#Values#0;class#HashMap#0" expanded="false" />
-                <element signature="method#clear#0;class#Values#0;class#HashMap#0" expanded="false" />
-                <element signature="method#iterator#0;class#Values#0;class#HashMap#0" expanded="false" />
-                <element signature="method#contains#0;class#Values#0;class#HashMap#0" expanded="false" />
-                <element signature="method#forEach#0;class#Values#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#entrySet#0;class#HashMap#0" expanded="false" />
-                <element signature="method#entrySet#0;class#HashMap#0" expanded="false" />
-                <element signature="class#EntrySet#0;class#HashMap#0" expanded="false" />
-                <element signature="method#size#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
-                <element signature="method#clear#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
-                <element signature="method#contains#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
-                <element signature="method#remove#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
-                <element signature="method#spliterator#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
-                <element signature="method#forEach#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
-                <element signature="method#getOrDefault#0;class#HashMap#0" expanded="false" />
-                <element signature="method#replace#0;class#HashMap#0" expanded="false" />
-                <element signature="method#replace#1;class#HashMap#0" expanded="false" />
-                <element signature="method#computeIfAbsent#0;class#HashMap#0" expanded="false" />
-                <element signature="method#computeIfPresent#0;class#HashMap#0" expanded="false" />
-                <element signature="method#compute#0;class#HashMap#0" expanded="false" />
-                <element signature="method#merge#0;class#HashMap#0" expanded="false" />
-                <element signature="method#forEach#0;class#HashMap#0" expanded="false" />
-                <element signature="method#replaceAll#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#clone#0;class#HashMap#0" expanded="false" />
-                <element signature="e#50734#50764#0" expanded="false" />
-                <element signature="method#clone#0;class#HashMap#0" expanded="false" />
-                <element signature="method#loadFactor#0;class#HashMap#0" expanded="false" />
-                <element signature="method#capacity#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#writeObject#0;class#HashMap#0" expanded="false" />
-                <element signature="method#writeObject#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#readObject#0;class#HashMap#0" expanded="false" />
-                <element signature="method#readObject#0;class#HashMap#0" expanded="false" />
-                <element signature="e#53153#53179#0" expanded="false" />
-                <element signature="class#HashIterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#HashIterator#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#nextNode#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#remove#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
-                <element signature="class#KeyIterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#next#0;class#KeyIterator#0;class#HashMap#0" expanded="false" />
-                <element signature="class#ValueIterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#next#0;class#ValueIterator#0;class#HashMap#0" expanded="false" />
-                <element signature="class#EntryIterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#next#0;class#EntryIterator#0;class#HashMap#0" expanded="false" />
-                <element signature="class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#HashMapSpliterator#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#getFence#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#estimateSize#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="class#KeySpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#KeySpliterator#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#trySplit#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#forEachRemaining#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#tryAdvance#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#characteristics#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#ValueSpliterator#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#trySplit#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#forEachRemaining#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#tryAdvance#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#EntrySpliterator#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#trySplit#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#forEachRemaining#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#tryAdvance#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#characteristics#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
-                <element signature="method#newTreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#replacementTreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#reinitialize#0;class#HashMap#0" expanded="false" />
-                <element signature="method#reinitialize#0;class#HashMap#0" expanded="false" />
-                <element signature="method#afterNodeAccess#0;class#HashMap#0" expanded="false" />
-                <element signature="method#afterNodeInsertion#0;class#HashMap#0" expanded="false" />
-                <element signature="method#afterNodeRemoval#0;class#HashMap#0" expanded="false" />
-                <element signature="method#internalWriteEntries#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#root#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#root#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#moveRootToFront#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#moveRootToFront#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#find#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#find#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#getTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#tieBreakOrder#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#tieBreakOrder#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#treeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#treeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#untreeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#untreeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#putTreeVal#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#putTreeVal#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#removeTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#removeTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#split#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#split#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#rotateLeft#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#rotateRight#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#balanceInsertion#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#balanceDeletion#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="docComment;method#checkInvariants#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-                <element signature="method#checkInvariants#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="51">
+              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NthDigit.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NthDigit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddStrings.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AddStrings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddBinary.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/AddBinary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="60" column="52" lean-forward="true" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -343,19 +212,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
-              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -372,6 +228,19 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LeetCode" type="58d84e3e:PackageViewProjectNode" />
+              <item name="LeetCode" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -663,14 +532,8 @@
       <workItem from="1527044325923" duration="21000" />
       <workItem from="1527044380977" duration="7848000" />
       <workItem from="1528294871500" duration="4040000" />
-      <workItem from="1528553086406" duration="650000" />
-    </task>
-    <task id="LOCAL-00209" summary="new&#10;">
-      <created>1480143256899</created>
-      <option name="number" value="00209" />
-      <option name="presentableId" value="LOCAL-00209" />
-      <option name="project" value="LOCAL" />
-      <updated>1480143256900</updated>
+      <workItem from="1528553086406" duration="1952000" />
+      <workItem from="1528685986225" duration="619000" />
     </task>
     <task id="LOCAL-00210" summary="new&#10;">
       <created>1480185940222</created>
@@ -1008,11 +871,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525945112668</updated>
     </task>
-    <option name="localTasksCounter" value="258" />
+    <task id="LOCAL-00258" summary="new">
+      <created>1528554268551</created>
+      <option name="number" value="00258" />
+      <option name="presentableId" value="LOCAL-00258" />
+      <option name="project" value="LOCAL" />
+      <updated>1528554268552</updated>
+    </task>
+    <option name="localTasksCounter" value="259" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182890000" />
+    <option name="totallyTimeSpent" value="184811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -1030,7 +900,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.231875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1230,34 +1100,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GasStation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/WordLadder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="52" column="44" lean-forward="false" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingleNumberII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CopyListWithRandomPointer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1553,6 +1395,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="96" column="22" lean-forward="false" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="147" column="19" lean-forward="false" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="623" column="66" lean-forward="true" selection-start-line="623" selection-start-column="66" selection-end-line="623" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/IntersectionOfTwoArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -1561,194 +1424,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/Objects.java">
+    <entry file="file://$PROJECT_DIR$/src/ConvertANumberToHexadecimal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="96" column="22" lean-forward="false" selection-start-line="96" selection-start-column="22" selection-end-line="96" selection-end-column="22" />
-          <folding>
-            <element signature="e#2786#2787#0" expanded="false" />
-            <element signature="e#2837#2838#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/src/NthDigit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="147" column="19" lean-forward="false" selection-start-line="147" selection-start-column="19" selection-end-line="147" selection-end-column="19" />
-          <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_112/src.zip!/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/AddStrings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="623" column="66" lean-forward="true" selection-start-line="623" selection-start-column="66" selection-end-line="623" selection-end-column="66" />
-          <folding>
-            <element signature="docComment;class#HashMap#0" expanded="false" />
-            <element signature="docComment;field#DEFAULT_INITIAL_CAPACITY#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;field#MAXIMUM_CAPACITY#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;field#DEFAULT_LOAD_FACTOR#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;field#TREEIFY_THRESHOLD#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;field#UNTREEIFY_THRESHOLD#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;field#MIN_TREEIFY_CAPACITY#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#hash#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#comparableClassFor#0;class#HashMap#0" expanded="false" />
-            <element signature="method#comparableClassFor#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#compareComparables#0;class#HashMap#0" expanded="false" />
-            <element signature="method#compareComparables#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#tableSizeFor#0;class#HashMap#0" expanded="false" />
-            <element signature="method#tableSizeFor#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;field#table#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;field#entrySet#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;field#size#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;field#modCount#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;field#threshold#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;field#loadFactor#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#HashMap#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#HashMap#1;class#HashMap#0" expanded="false" />
-            <element signature="e#19072#19073#0" expanded="true" />
-            <element signature="e#19130#19131#0" expanded="true" />
-            <element signature="docComment;method#HashMap#2;class#HashMap#0" expanded="false" />
-            <element signature="e#19296#19297#0" expanded="true" />
-            <element signature="e#19379#19380#0" expanded="true" />
-            <element signature="docComment;method#HashMap#3;class#HashMap#0" expanded="false" />
-            <element signature="method#putMapEntries#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#size#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#isEmpty#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#get#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#getNode#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#containsKey#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#put#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#putVal#0;class#HashMap#0" expanded="false" />
-            <element signature="method#putVal#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#resize#0;class#HashMap#0" expanded="false" />
-            <element signature="method#resize#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#treeifyBin#0;class#HashMap#0" expanded="false" />
-            <element signature="method#treeifyBin#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#putAll#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#remove#0;class#HashMap#0" expanded="false" />
-            <element signature="method#remove#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#removeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#removeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#clear#0;class#HashMap#0" expanded="false" />
-            <element signature="method#clear#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#containsValue#0;class#HashMap#0" expanded="false" />
-            <element signature="method#containsValue#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#keySet#0;class#HashMap#0" expanded="false" />
-            <element signature="method#keySet#0;class#HashMap#0" expanded="false" />
-            <element signature="class#KeySet#0;class#HashMap#0" expanded="false" />
-            <element signature="method#size#0;class#KeySet#0;class#HashMap#0" expanded="false" />
-            <element signature="method#clear#0;class#KeySet#0;class#HashMap#0" expanded="false" />
-            <element signature="method#iterator#0;class#KeySet#0;class#HashMap#0" expanded="false" />
-            <element signature="method#contains#0;class#KeySet#0;class#HashMap#0" expanded="false" />
-            <element signature="method#forEach#0;class#KeySet#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#values#0;class#HashMap#0" expanded="false" />
-            <element signature="method#values#0;class#HashMap#0" expanded="false" />
-            <element signature="class#Values#0;class#HashMap#0" expanded="false" />
-            <element signature="method#size#0;class#Values#0;class#HashMap#0" expanded="false" />
-            <element signature="method#clear#0;class#Values#0;class#HashMap#0" expanded="false" />
-            <element signature="method#iterator#0;class#Values#0;class#HashMap#0" expanded="false" />
-            <element signature="method#contains#0;class#Values#0;class#HashMap#0" expanded="false" />
-            <element signature="method#forEach#0;class#Values#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#entrySet#0;class#HashMap#0" expanded="false" />
-            <element signature="method#entrySet#0;class#HashMap#0" expanded="false" />
-            <element signature="class#EntrySet#0;class#HashMap#0" expanded="false" />
-            <element signature="method#size#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
-            <element signature="method#clear#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
-            <element signature="method#contains#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
-            <element signature="method#remove#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
-            <element signature="method#spliterator#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
-            <element signature="method#forEach#0;class#EntrySet#0;class#HashMap#0" expanded="false" />
-            <element signature="method#getOrDefault#0;class#HashMap#0" expanded="false" />
-            <element signature="method#replace#0;class#HashMap#0" expanded="false" />
-            <element signature="method#replace#1;class#HashMap#0" expanded="false" />
-            <element signature="method#computeIfAbsent#0;class#HashMap#0" expanded="false" />
-            <element signature="method#computeIfPresent#0;class#HashMap#0" expanded="false" />
-            <element signature="method#compute#0;class#HashMap#0" expanded="false" />
-            <element signature="method#merge#0;class#HashMap#0" expanded="false" />
-            <element signature="method#forEach#0;class#HashMap#0" expanded="false" />
-            <element signature="method#replaceAll#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#clone#0;class#HashMap#0" expanded="false" />
-            <element signature="e#50734#50764#0" expanded="false" />
-            <element signature="method#clone#0;class#HashMap#0" expanded="false" />
-            <element signature="method#loadFactor#0;class#HashMap#0" expanded="false" />
-            <element signature="method#capacity#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#writeObject#0;class#HashMap#0" expanded="false" />
-            <element signature="method#writeObject#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#readObject#0;class#HashMap#0" expanded="false" />
-            <element signature="method#readObject#0;class#HashMap#0" expanded="false" />
-            <element signature="e#53153#53179#0" expanded="false" />
-            <element signature="class#HashIterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#HashIterator#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#nextNode#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#remove#0;class#HashIterator#0;class#HashMap#0" expanded="false" />
-            <element signature="class#KeyIterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#next#0;class#KeyIterator#0;class#HashMap#0" expanded="false" />
-            <element signature="class#ValueIterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#next#0;class#ValueIterator#0;class#HashMap#0" expanded="false" />
-            <element signature="class#EntryIterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#next#0;class#EntryIterator#0;class#HashMap#0" expanded="false" />
-            <element signature="class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#HashMapSpliterator#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#getFence#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#estimateSize#0;class#HashMapSpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="class#KeySpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#KeySpliterator#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#trySplit#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#forEachRemaining#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#tryAdvance#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#characteristics#0;class#KeySpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#ValueSpliterator#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#trySplit#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#forEachRemaining#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#tryAdvance#0;class#ValueSpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#EntrySpliterator#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#trySplit#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#forEachRemaining#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#tryAdvance#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#characteristics#0;class#EntrySpliterator#0;class#HashMap#0" expanded="false" />
-            <element signature="method#newTreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#replacementTreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#reinitialize#0;class#HashMap#0" expanded="false" />
-            <element signature="method#reinitialize#0;class#HashMap#0" expanded="false" />
-            <element signature="method#afterNodeAccess#0;class#HashMap#0" expanded="false" />
-            <element signature="method#afterNodeInsertion#0;class#HashMap#0" expanded="false" />
-            <element signature="method#afterNodeRemoval#0;class#HashMap#0" expanded="false" />
-            <element signature="method#internalWriteEntries#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#root#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#root#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#moveRootToFront#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#moveRootToFront#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#find#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#find#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#getTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#tieBreakOrder#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#tieBreakOrder#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#treeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#treeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#untreeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#untreeify#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#putTreeVal#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#putTreeVal#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#removeTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#removeTreeNode#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#split#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#split#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#rotateLeft#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#rotateRight#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#balanceInsertion#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#balanceDeletion#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="docComment;method#checkInvariants#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-            <element signature="method#checkInvariants#0;class#TreeNode#0;class#HashMap#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AddBinary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="60" column="52" lean-forward="true" selection-start-line="60" selection-start-column="52" selection-end-line="60" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
