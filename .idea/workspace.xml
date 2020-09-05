@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="">
+    <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BestTimeToBuyAndSellStockII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/greedyalgorithm/BestTimeToBuyAndSellStockII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DesignTwitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/heap/DesignTwitter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValidParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stack/ValidParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary/BinaryWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntersectionOfTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sort/IntersectionOfTwoArrays.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +54,6 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="811" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -283,20 +277,6 @@
       <workItem from="1527043583865" duration="113000" />
       <workItem from="1527044325923" duration="21000" />
       <workItem from="1527044380977" duration="7848000" />
-    </task>
-    <task id="LOCAL-00209" summary="new&#10;">
-      <created>1480143256899</created>
-      <option name="number" value="00209" />
-      <option name="presentableId" value="LOCAL-00209" />
-      <option name="project" value="LOCAL" />
-      <updated>1480143256900</updated>
-    </task>
-    <task id="LOCAL-00210" summary="new&#10;">
-      <created>1480185940222</created>
-      <option name="number" value="00210" />
-      <option name="presentableId" value="LOCAL-00210" />
-      <option name="project" value="LOCAL" />
-      <updated>1480185940223</updated>
     </task>
     <task id="LOCAL-00211" summary="new&#10;">
       <created>1480190580233</created>
@@ -627,7 +607,21 @@
       <option name="project" value="LOCAL" />
       <updated>1525945112668</updated>
     </task>
-    <option name="localTasksCounter" value="258" />
+    <task id="LOCAL-00258" summary="update">
+      <created>1599270552947</created>
+      <option name="number" value="00258" />
+      <option name="presentableId" value="LOCAL-00258" />
+      <option name="project" value="LOCAL" />
+      <updated>1599270552947</updated>
+    </task>
+    <task id="LOCAL-00259" summary="update">
+      <created>1599270573803</created>
+      <option name="number" value="00259" />
+      <option name="presentableId" value="LOCAL-00259" />
+      <option name="project" value="LOCAL" />
+      <updated>1599270573803</updated>
+    </task>
+    <option name="localTasksCounter" value="260" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -656,7 +650,18 @@
     <MESSAGE value="maxprofit" />
     <MESSAGE value="three_sum" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="34" key="CommitChangelistDialog2" timestamp="1599270573635">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="294" y="34" key="CommitChangelistDialog2/94.900.1440.834/0.23.1600.877@0.23.1600.877" timestamp="1599270573635" />
+    <state x="400" y="188" key="Vcs.Push.Dialog.v2" timestamp="1599270575891">
+      <screen x="0" y="23" width="1600" height="877" />
+    </state>
+    <state x="400" y="188" key="Vcs.Push.Dialog.v2/94.900.1440.834/0.23.1600.877@0.23.1600.877" timestamp="1599270575891" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
