@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/binary/BinaryWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/binary/BinaryWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EvaluateDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/unionfind/EvaluateDivision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MinimumHeightTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/MinimumHeightTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bfs/SymmetricTree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +56,16 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProjectId" id="1hDNrHoYjmFqisjbgfc6P4ll1mP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
@@ -212,11 +220,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WordPattern" />
-      <item itemvalue="Application.RepeatedSubstringPattern" />
+      <item itemvalue="Application.HouseRobberII" />
       <item itemvalue="Application.NextPermutation" />
       <item itemvalue="Application.PermutationSequence" />
-      <item itemvalue="Application.HouseRobberII" />
+      <item itemvalue="Application.RepeatedSubstringPattern" />
+      <item itemvalue="Application.WordPattern" />
     </list>
     <recent_temporary>
       <list>
@@ -276,13 +284,7 @@
       <workItem from="1527043583865" duration="113000" />
       <workItem from="1527044325923" duration="21000" />
       <workItem from="1527044380977" duration="7848000" />
-    </task>
-    <task id="LOCAL-00212" summary="new&#10;">
-      <created>1480258556896</created>
-      <option name="number" value="00212" />
-      <option name="presentableId" value="LOCAL-00212" />
-      <option name="project" value="LOCAL" />
-      <updated>1480258556897</updated>
+      <workItem from="1599541907610" duration="724000" />
     </task>
     <task id="LOCAL-00213" summary="new&#10;">
       <created>1480258621749</created>
@@ -620,7 +622,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599298901654</updated>
     </task>
-    <option name="localTasksCounter" value="261" />
+    <task id="LOCAL-00261" summary="update">
+      <created>1599439976872</created>
+      <option name="number" value="00261" />
+      <option name="presentableId" value="LOCAL-00261" />
+      <option name="project" value="LOCAL" />
+      <updated>1599439976873</updated>
+    </task>
+    <option name="localTasksCounter" value="262" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -653,13 +662,15 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="294" y="34" key="CommitChangelistDialog2" timestamp="1599298901422">
-      <screen x="0" y="23" width="1600" height="877" />
+    <state x="353" y="36" key="CommitChangelistDialog2" timestamp="1599439976660">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state x="353" y="36" key="CommitChangelistDialog2/258.1080.1440.834/0.23.1920.1057@0.23.1920.1057" timestamp="1599439976660" />
     <state x="294" y="34" key="CommitChangelistDialog2/94.900.1440.834/0.23.1600.877@0.23.1600.877" timestamp="1599298901422" />
-    <state x="400" y="188" key="Vcs.Push.Dialog.v2" timestamp="1599298904632">
-      <screen x="0" y="23" width="1600" height="877" />
+    <state x="480" y="222" key="Vcs.Push.Dialog.v2" timestamp="1599439978490">
+      <screen x="0" y="23" width="1920" height="1057" />
     </state>
+    <state x="480" y="222" key="Vcs.Push.Dialog.v2/258.1080.1440.834/0.23.1920.1057@0.23.1920.1057" timestamp="1599439978490" />
     <state x="400" y="188" key="Vcs.Push.Dialog.v2/94.900.1440.834/0.23.1600.877@0.23.1600.877" timestamp="1599298904632" />
   </component>
   <component name="XDebuggerManager">
