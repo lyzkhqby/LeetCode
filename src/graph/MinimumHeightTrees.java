@@ -71,7 +71,6 @@ public class MinimumHeightTrees {
             if (graph.get(i).size() == 1) leaf.add(i);
         }
 
-
         while (n > 2) {
             List<Integer> newLeaf = new ArrayList<>();
             for (int l : leaf) {
@@ -84,4 +83,12 @@ public class MinimumHeightTrees {
         }
         return leaf;
     }
+
+    public static void main(String[] args) {
+        MinimumHeightTrees trees = new MinimumHeightTrees();
+        int n = 6;
+        int[][] array = new int[][]{{0, 3}, {1, 3}, {2, 3}, {4, 3}, {5, 4}};
+        trees.findMinHeightTrees(n, array);
+    }
+
 }
