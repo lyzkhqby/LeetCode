@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/graph/MinimumHeightTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/graph/MinimumHeightTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ImplementTrie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/prefixtree/ImplementTrie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RangeSumQueryMutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/segmenttree/RangeSumQueryMutable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,6 +80,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="topologicalsort" />
       <recent name="" />
     </key>
   </component>
@@ -196,13 +198,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -293,14 +297,8 @@
       <workItem from="1599732207674" duration="3046000" />
       <workItem from="1600046658241" duration="445000" />
       <workItem from="1600086729612" duration="597000" />
-      <workItem from="1600148616788" duration="1198000" />
-    </task>
-    <task id="LOCAL-00214" summary="new&#10;">
-      <created>1480522798137</created>
-      <option name="number" value="00214" />
-      <option name="presentableId" value="LOCAL-00214" />
-      <option name="project" value="LOCAL" />
-      <updated>1480522798137</updated>
+      <workItem from="1600148616788" duration="1423000" />
+      <workItem from="1600234320083" duration="1431000" />
     </task>
     <task id="LOCAL-00215" summary="new&#10;">
       <created>1480535081730</created>
@@ -638,7 +636,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599545467027</updated>
     </task>
-    <option name="localTasksCounter" value="263" />
+    <task id="LOCAL-00263" summary="update">
+      <created>1600163435316</created>
+      <option name="number" value="00263" />
+      <option name="presentableId" value="LOCAL-00263" />
+      <option name="project" value="LOCAL" />
+      <updated>1600163435317</updated>
+    </task>
+    <option name="localTasksCounter" value="264" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -671,10 +676,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="353" y="36" key="CommitChangelistDialog2" timestamp="1599545466697">
+    <state x="353" y="36" key="CommitChangelistDialog2" timestamp="1600163434940">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="353" y="36" key="CommitChangelistDialog2/258.1080.1440.834/0.23.1920.1057@0.23.1920.1057" timestamp="1599545466697" />
+    <state x="353" y="36" key="CommitChangelistDialog2/258.1080.1440.834/0.23.1920.1057@0.23.1920.1057" timestamp="1600163434940" />
     <state x="294" y="34" key="CommitChangelistDialog2/94.900.1440.834/0.23.1600.877@0.23.1600.877" timestamp="1599298901422" />
     <state width="1878" height="164" key="GridCell.Tab.0.bottom" timestamp="1599721218387">
       <screen x="0" y="23" width="1920" height="1057" />
@@ -708,10 +713,10 @@
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
     <state width="1878" height="164" key="GridCell.Tab.1.right/258.1080.1440.834/0.23.1920.1057@0.23.1920.1057" timestamp="1599721218385" />
-    <state x="480" y="222" key="Vcs.Push.Dialog.v2" timestamp="1599545469354">
+    <state x="480" y="222" key="Vcs.Push.Dialog.v2" timestamp="1600163440770">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state x="480" y="222" key="Vcs.Push.Dialog.v2/258.1080.1440.834/0.23.1920.1057@0.23.1920.1057" timestamp="1599545469354" />
+    <state x="480" y="222" key="Vcs.Push.Dialog.v2/258.1080.1440.834/0.23.1920.1057@0.23.1920.1057" timestamp="1600163440770" />
     <state x="400" y="188" key="Vcs.Push.Dialog.v2/94.900.1440.834/0.23.1600.877@0.23.1600.877" timestamp="1599298904632" />
     <state x="490" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599831296217">
       <screen x="0" y="23" width="1440" height="811" />
