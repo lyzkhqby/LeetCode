@@ -36,7 +36,7 @@ public class ReverseLinkedList {
 
     public ListNode reverseList1(ListNode head) {
         if (head == null || head.next == null) return head;
-        ListNode rest = head.next;
+        ListNode rest = head.next; // 为了避免循环链表
         ListNode reverseRest = reverseList(rest);
         rest.next = head;
         head.next = null;
