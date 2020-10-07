@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="update" />
+    <list default="true" id="c79f7f7c-1d59-4f6e-add3-410c2fd48a37" name="Default" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/DivideAndConquer/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DivideAndConquer/MaximumSubarray.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,6 +205,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -296,13 +313,9 @@
       <workItem from="1601041833816" duration="352000" />
       <workItem from="1601042208873" duration="984000" />
       <workItem from="1601295495266" duration="1989000" />
-    </task>
-    <task id="LOCAL-00224" summary="new&#10;">
-      <created>1481032660693</created>
-      <option name="number" value="00224" />
-      <option name="presentableId" value="LOCAL-00224" />
-      <option name="project" value="LOCAL" />
-      <updated>1481032660694</updated>
+      <workItem from="1601516839594" duration="1075000" />
+      <workItem from="1601652441254" duration="3072000" />
+      <workItem from="1601929679692" duration="859000" />
     </task>
     <task id="LOCAL-00225" summary="new&#10;">
       <created>1481037156383</created>
@@ -640,7 +653,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601296338672</updated>
     </task>
-    <option name="localTasksCounter" value="273" />
+    <task id="LOCAL-00273" summary="update">
+      <created>1601517013709</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1601517013710</updated>
+    </task>
+    <option name="localTasksCounter" value="274" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -673,10 +693,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="265" y="23" width="1012" height="834" key="CommitChangelistDialog2" timestamp="1601296338374">
+    <state x="265" y="23" width="1012" height="834" key="CommitChangelistDialog2" timestamp="1601517013433">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state x="265" y="23" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1601296338374" />
+    <state x="265" y="23" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1601517013433" />
     <state x="353" y="36" key="CommitChangelistDialog2/258.1080.1440.834/0.23.1920.1057@0.23.1920.1057" timestamp="1600841232035" />
     <state x="523" y="1080" width="1012" height="834" key="CommitChangelistDialog2/258.1080.1440.834/0.23.1920.1057@258.1080.1440.834" timestamp="1600236035825" />
     <state x="294" y="34" key="CommitChangelistDialog2/94.900.1440.834/0.23.1600.877@0.23.1600.877" timestamp="1601044608719" />
@@ -720,10 +740,10 @@
     </state>
     <state width="1398" height="246" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1600606035112" />
     <state width="1878" height="246" key="GridCell.Tab.1.right/258.1080.1440.834/0.23.1920.1057@0.23.1920.1057" timestamp="1600649983439" />
-    <state x="360" y="176" key="Vcs.Push.Dialog.v2" timestamp="1601296340811">
+    <state x="360" y="176" key="Vcs.Push.Dialog.v2" timestamp="1601517015691">
       <screen x="0" y="23" width="1440" height="811" />
     </state>
-    <state x="360" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1601296340811" />
+    <state x="360" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.811@0.23.1440.811" timestamp="1601517015691" />
     <state x="480" y="222" key="Vcs.Push.Dialog.v2/258.1080.1440.834/0.23.1920.1057@0.23.1920.1057" timestamp="1600841233891" />
     <state x="618" y="1237" key="Vcs.Push.Dialog.v2/258.1080.1440.834/0.23.1920.1057@258.1080.1440.834" timestamp="1600236038208" />
     <state x="400" y="188" key="Vcs.Push.Dialog.v2/94.900.1440.834/0.23.1600.877@0.23.1600.877" timestamp="1601045911060" />
